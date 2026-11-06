@@ -1,0 +1,14 @@
+# 数据获取
+pybaseball>=2.2.7
+
+# 数据处理
+pandas>=2.0
+numpy>=1.24
+
+# 绘图
+matplotlib>=3.7
+
+# Notebook 运行环境
+ipykernel
+notebook
+jupyterlab
