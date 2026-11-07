@@ -30,7 +30,7 @@
 |---|---|---|---|
 | 1 | 抓取 Statcast 逐球数据 | `notebooks/01_fetch_statcast_data.ipynb`、`data/raw/2025-06-14_statcast.csv` | 已完成 |
 | 2 | 计算盗垒成功率 | `notebooks/02_calculate_stolen_base.ipynb`、`data/processed/2025-06-14_sb_summary.csv` | 已完成 |
-| 3 | 得分期望柱状图（RE24 雏形） | `notebooks/03_plot_expected_runs.ipynb` | 计划中 |
+| 3 | 得分期望柱状图（RE24 雏形） | `notebooks/03_plot_expected_runs.ipynb`、`figures/2025-06-14_run_expectancy.png` | 已完成 |
 | 4+ | 马尔可夫链战术决策建模 | `notebooks/04_...` | 计划中 |
 
 ## 目录结构
