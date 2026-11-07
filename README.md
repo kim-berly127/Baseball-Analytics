@@ -39,14 +39,23 @@
 Baseball-Analytics/
 ├── README.md
 ├── requirements.txt
-├── notebooks/                  # 按序号命名的分析脚本
-│   └── 01_fetch_statcast_data.ipynb
-└── data/
-    └── raw/                    # 原始数据，按日期命名
-        └── 2025-06-14_statcast.csv
+├── notebooks/ # 按序号命名的分析脚本
+│ ├── 01_fetch_statcast_data.ipynb
+│ ├── 02_calculate_stolen_base.ipynb
+│ └── 03_plot_expected_runs.ipynb
+├── data/
+│ ├── raw/ # 原始逐球数据，按日期命名
+│ │ └── 2025-06-14_statcast.csv
+│ └── processed/ # 代码生成的中间结果表
+│ ├── 2025-06-14_sb_summary.csv
+│ ├── 2025-06-14_sb_by_team.csv
+│ ├── 2025-06-14_sb_events.csv
+│ └── 2025-06-14_re24_table.csv
+└── figures/ # 图表
+└── 2025-06-14_run_expectancy.png
 ```
-
 命名规则：`序号_动词_主题.ipynb`，序号决定阅读顺序。
+
 
 ## 环境
 
