@@ -31,7 +31,9 @@
 | 1 | 抓取 Statcast 逐球数据 | `notebooks/01_fetch_statcast_data.ipynb`、`data/raw/2025-06-14_statcast.csv` | 已完成 |
 | 2 | 计算盗垒成功率 | `notebooks/02_calculate_stolen_base.ipynb`、`data/processed/2025-06-14_sb_summary.csv` | 已完成 |
 | 3 | 得分期望柱状图（RE24 雏形） | `notebooks/03_plot_expected_runs.ipynb`、`figures/2025-06-14_run_expectancy.png` | 已完成 |
-| 4+ | 马尔可夫链战术决策建模 | `notebooks/04_...` | 计划中 |
+| 4 | 垒上局面转移矩阵（马尔可夫链） | `notebooks/04_markov_transition.ipynb`、`figures/transition_matrix_heatmap.png` | 已完成 |
+| 5+ | 盗垒/短打的期望得分价值 | `notebooks/05_...` | 计划中 |
+
 
 ## 目录结构
 
