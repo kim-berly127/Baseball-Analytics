@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# 原始数据：整月文件和 play-by-play 缓存不入库
+data/raw/*_month.csv
+data/raw/mlb_pbp/
+
+# 系统与日志
+.DS_Store
+Thumbs.db
+*.log
+
+# 环境变量
+.env
