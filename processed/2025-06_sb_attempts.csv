@@ -1,0 +1,674 @@
+﻿game_pk,inning,half,at_bat_index,event,origin_base,runner_id,runner_name,target_base,success,inning_topbot,game_date,home_team,away_team,batting_team
+777677,4,bottom,32,Caught Stealing 2B,1B,670231,John Rave,2,0,Bot,2025-06-01,KC,DET,KC
+777678,1,bottom,9,Stolen Base 2B,1B,694671,Wyatt Langford,2,1,Bot,2025-06-01,TEX,STL,TEX
+777678,1,bottom,9,Stolen Base 3B,2B,669701,Josh Smith,3,1,Bot,2025-06-01,TEX,STL,TEX
+777678,2,bottom,17,Stolen Base 2B,1B,543760,Marcus Semien,2,1,Bot,2025-06-01,TEX,STL,TEX
+777678,3,top,21,Caught Stealing 2B,1B,663457,Lars Nootbaar,2,0,Top,2025-06-01,TEX,STL,STL
+777679,5,top,35,Stolen Base 2B,1B,682928,CJ Abrams,2,1,Top,2025-06-01,AZ,WSH,WSH
+777680,4,top,25,Caught Stealing 2B,1B,665019,Kody Clemens,2,0,Top,2025-06-01,SEA,MIN,MIN
+777680,9,bottom,68,Stolen Base 2B,1B,677594,Julio Rodríguez,2,1,Bot,2025-06-01,SEA,MIN,SEA
+777681,1,top,2,Stolen Base 2B,1B,665833,Oneil Cruz,2,1,Top,2025-06-01,SD,PIT,PIT
+777681,3,top,19,Stolen Base 2B,1B,665833,Oneil Cruz,2,1,Top,2025-06-01,SD,PIT,PIT
+777682,2,bottom,16,Caught Stealing 3B,2B,681624,Andy Pages,3,0,Bot,2025-06-01,LAD,NYY,LAD
+777682,4,top,31,Stolen Base 2B,1B,502671,Paul Goldschmidt,2,1,Top,2025-06-01,LAD,NYY,NYY
+777682,5,top,36,Stolen Base 2B,1B,691176,Jasson Domínguez,2,1,Top,2025-06-01,LAD,NYY,NYY
+777682,7,top,55,Caught Stealing 2B,1B,669224,Austin Wells,2,0,Top,2025-06-01,LAD,NYY,NYY
+777682,9,top,71,Stolen Base 2B,1B,641355,Cody Bellinger,2,1,Top,2025-06-01,LAD,NYY,NYY
+777685,3,top,20,Stolen Base 2B,1B,805779,Jacob Wilson,2,1,Top,2025-06-01,TOR,ATH,ATH
+777685,4,top,30,Stolen Base 2B,1B,672016,Denzel Clarke,2,1,Top,2025-06-01,TOR,ATH,ATH
+777685,8,top,66,Stolen Base 2B,1B,672016,Denzel Clarke,2,1,Top,2025-06-01,TOR,ATH,ATH
+777685,8,top,66,Stolen Base 3B,2B,680862,Willie MacIver,3,1,Top,2025-06-01,TOR,ATH,ATH
+777686,4,bottom,24,Stolen Base 2B,1B,516782,Starling Marte,2,1,Bot,2025-06-01,NYM,COL,NYM
+777686,8,top,54,Stolen Base 2B,1B,671289,Tyler Freeman,2,1,Top,2025-06-01,NYM,COL,COL
+777687,1,bottom,6,Caught Stealing 2B,1B,663656,Kyle Tucker,2,0,Bot,2025-06-01,CHC,CIN,CHC
+777687,1,bottom,8,Stolen Base 2B,1B,691718,Pete Crow-Armstrong,2,1,Bot,2025-06-01,CHC,CIN,CHC
+777687,5,bottom,39,Stolen Base 2B,1B,691718,Pete Crow-Armstrong,2,1,Bot,2025-06-01,CHC,CIN,CHC
+777687,7,bottom,59,Caught Stealing 2B,1B,663538,Nico Hoerner,2,0,Bot,2025-06-01,CHC,CIN,CHC
+777688,1,bottom,7,Stolen Base 2B,1B,607208,Trea Turner,2,1,Bot,2025-06-01,PHI,MIL,PHI
+777688,1,bottom,8,Stolen Base 3B,2B,607208,Trea Turner,3,1,Bot,2025-06-01,PHI,MIL,PHI
+777688,3,top,23,Caught Stealing 2B,1B,694192,Jackson Chourio,2,0,Top,2025-06-01,PHI,MIL,MIL
+777688,4,bottom,34,Stolen Base 2B,1B,679032,Johan Rojas,2,1,Bot,2025-06-01,PHI,MIL,PHI
+777688,9,top,68,Stolen Base 2B,1B,687401,Joey Ortiz,2,1,Top,2025-06-01,PHI,MIL,MIL
+777688,9,top,69,Caught Stealing 2B,1B,668930,Brice Turang,2,0,Top,2025-06-01,PHI,MIL,MIL
+777689,1,top,2,Stolen Base 2B,1B,671218,Heliot Ramos,2,1,Top,2025-06-01,MIA,SF,SF
+777689,3,top,18,Stolen Base 2B,1B,666149,Tyler Fitzgerald,2,1,Top,2025-06-01,MIA,SF,SF
+777689,3,top,18,Stolen Base 3B,2B,671218,Heliot Ramos,3,1,Top,2025-06-01,MIA,SF,SF
+777689,9,top,72,Stolen Base 2B,1B,682641,Luis Matos,2,1,Top,2025-06-01,MIA,SF,SF
+777690,3,top,16,Caught Stealing 2B,1B,670224,Kameron Misner,2,0,Top,2025-06-01,HOU,TB,TB
+777690,8,bottom,58,Stolen Base 3B,2B,665161,Jeremy Peña,3,1,Bot,2025-06-01,HOU,TB,HOU
+777692,4,bottom,34,Stolen Base 2B,1B,645277,Ozzie Albies,2,1,Bot,2025-06-01,ATL,BOS,ATL
+777669,4,bottom,36,Stolen Base 2B,1B,682183,Drew Avans,2,1,Bot,2025-06-02,ATH,MIN,ATH
+777669,4,bottom,37,Stolen Base 2B,1B,672016,Denzel Clarke,2,1,Bot,2025-06-02,ATH,MIN,ATH
+777669,6,top,54,Stolen Base 2B,1B,621439,Byron Buxton,2,1,Top,2025-06-02,ATH,MIN,MIN
+777673,5,top,44,Caught Stealing 2B,1B,642731,Thairo Estrada,2,0,Top,2025-06-02,MIA,COL,COL
+777674,2,top,14,Stolen Base 2B,1B,678009,Parker Meadows,2,1,Top,2025-06-02,CWS,DET,DET
+777675,9,bottom,69,Stolen Base 2B,1B,669242,Tommy Edman,2,1,Bot,2025-06-02,LAD,NYM,LAD
+777675,9,bottom,72,Stolen Base 2B,1B,808975,Hyeseong Kim,2,1,Bot,2025-06-02,LAD,NYM,LAD
+777675,10,top,75,Stolen Base 2B,1B,596019,Francisco Lindor,2,1,Top,2025-06-02,LAD,NYM,NYM
+777676,2,top,11,Caught Stealing 2B,1B,630105,Jake Cronenworth,2,0,Top,2025-06-02,SF,SD,SD
+777676,6,bottom,44,Stolen Base 2B,1B,808982,Jung Hoo Lee,2,1,Bot,2025-06-02,SF,SD,SF
+777676,8,bottom,60,Stolen Base 2B,1B,683766,Christian Koss,2,1,Bot,2025-06-02,SF,SD,SF
+777656,9,top,69,Stolen Base 2B,1B,665487,Fernando Tatis Jr.,2,1,Top,2025-06-03,SF,SD,SD
+777659,1,bottom,5,Stolen Base 2B,1B,682928,CJ Abrams,2,1,Bot,2025-06-03,WSH,CHC,WSH
+777659,1,bottom,8,Caught Stealing 2B,1B,671277,Luis García Jr.,2,0,Bot,2025-06-03,WSH,CHC,WSH
+777659,4,top,25,Stolen Base 3B,2B,691718,Pete Crow-Armstrong,3,1,Top,2025-06-03,WSH,CHC,CHC
+777659,5,top,42,Stolen Base 2B,1B,663538,Nico Hoerner,2,1,Top,2025-06-03,WSH,CHC,CHC
+777659,6,top,50,Stolen Base 2B,1B,691718,Pete Crow-Armstrong,2,1,Top,2025-06-03,WSH,CHC,CHC
+777660,6,top,56,Stolen Base 2B,1B,672580,Maikel Garcia,2,1,Top,2025-06-03,STL,KC,KC
+777661,7,bottom,57,Caught Stealing 2B,1B,805367,Chase Meidroth,2,0,Bot,2025-06-03,CWS,DET,CWS
+777661,8,bottom,69,Stolen Base 2B,1B,572191,Michael A. Taylor,2,1,Bot,2025-06-03,CWS,DET,CWS
+777662,6,bottom,44,Stolen Base 2B,1B,663968,Jake Mangum,2,1,Bot,2025-06-03,TB,TEX,TB
+777662,6,bottom,44,Stolen Base Home,3B,691406,Junior Caminero,4,1,Bot,2025-06-03,TB,TEX,TB
+777663,4,top,24,Stolen Base 2B,1B,514888,Jose Altuve,2,1,Top,2025-06-03,PIT,HOU,HOU
+777663,5,bottom,36,Stolen Base 2B,1B,643396,Isiah Kiner-Falefa,2,1,Bot,2025-06-03,PIT,HOU,PIT
+777663,7,bottom,48,Caught Stealing 2B,1B,693304,Nick Gonzales,2,0,Bot,2025-06-03,PIT,HOU,PIT
+777663,8,bottom,55,Caught Stealing 2B,1B,665833,Oneil Cruz,2,0,Bot,2025-06-03,PIT,HOU,PIT
+777664,1,top,3,Stolen Base 2B,1B,608070,José Ramírez,2,1,Top,2025-06-03,NYY,CLE,CLE
+777664,7,top,44,Stolen Base 2B,1B,608070,José Ramírez,2,1,Top,2025-06-03,NYY,CLE,CLE
+777664,8,bottom,60,Caught Stealing 2B,1B,592450,Aaron Judge,2,0,Bot,2025-06-03,NYY,CLE,NYY
+777664,9,top,66,Stolen Base 2B,1B,682177,Daniel Schneemann,2,1,Top,2025-06-03,NYY,CLE,CLE
+777666,3,bottom,22,Stolen Base 2B,1B,660821,Jesús Sánchez,2,1,Bot,2025-06-03,MIA,COL,MIA
+777666,5,top,34,Stolen Base 2B,1B,666160,Mickey Moniak,2,1,Top,2025-06-03,MIA,COL,COL
+777666,5,top,37,Stolen Base 2B,1B,687597,Jordan Beck,2,1,Top,2025-06-03,MIA,COL,COL
+777667,3,top,15,Stolen Base 2B,1B,666176,Jo Adell,2,1,Top,2025-06-03,BOS,LAA,LAA
+777667,4,top,30,Caught Stealing 2B,1B,650859,Luis Rengifo,2,0,Top,2025-06-03,BOS,LAA,LAA
+777667,9,bottom,73,Stolen Base 2B,1B,666152,David Hamilton,2,1,Bot,2025-06-03,BOS,LAA,BOS
+777667,9,bottom,76,Stolen Base 3B,2B,666152,David Hamilton,3,1,Bot,2025-06-03,BOS,LAA,BOS
+777672,4,top,26,Stolen Base 2B,1B,656976,Pavin Smith,2,1,Top,2025-06-03,ATL,AZ,AZ
+777672,7,top,52,Caught Stealing 2B,1B,682998,Corbin Carroll,2,0,Top,2025-06-03,ATL,AZ,AZ
+777638,1,top,2,Stolen Base 2B,1B,607043,Brandon Nimmo,2,1,Top,2025-06-04,LAD,NYM,NYM
+777639,1,bottom,12,Pickoff Caught Stealing 2B,1B,805367,Chase Meidroth,2,0,Bot,2025-06-04,CWS,DET,CWS
+777641,2,top,12,Stolen Base 2B,1B,663604,Brandon Lockridge,2,1,Top,2025-06-04,SF,SD,SD
+777641,2,top,12,Caught Stealing 3B,2B,663604,Brandon Lockridge,3,0,Top,2025-06-04,SF,SD,SD
+777641,5,bottom,42,Stolen Base 2B,1B,669288,Daniel Johnson,2,1,Bot,2025-06-04,SF,SD,SF
+777641,9,top,74,Stolen Base 2B,1B,592518,Manny Machado,2,1,Top,2025-06-04,SF,SD,SD
+777641,9,top,74,Stolen Base 3B,2B,665487,Fernando Tatis Jr.,3,1,Top,2025-06-04,SF,SD,SD
+777643,3,top,19,Stolen Base 2B,1B,686797,Brooks Lee,2,1,Top,2025-06-04,ATH,MIN,MIN
+777645,6,bottom,42,Stolen Base 2B,1B,677594,Julio Rodríguez,2,1,Bot,2025-06-04,SEA,BAL,SEA
+777646,3,bottom,26,Stolen Base 2B,1B,663968,Jake Mangum,2,1,Bot,2025-06-04,TB,TEX,TB
+777646,4,bottom,33,Stolen Base 2B,1B,666139,Josh Lowe,2,1,Bot,2025-06-04,TB,TEX,TB
+777647,3,top,17,Stolen Base 2B,1B,694192,Jackson Chourio,2,1,Top,2025-06-04,CIN,MIL,MIL
+777647,4,bottom,30,Caught Stealing 2B,1B,663886,Tyler Stephenson,2,0,Bot,2025-06-04,CIN,MIL,CIN
+777647,6,bottom,47,Stolen Base 2B,1B,682829,Elly De La Cruz,2,1,Bot,2025-06-04,CIN,MIL,CIN
+777647,6,bottom,47,Stolen Base 3B,2B,682829,Elly De La Cruz,3,1,Bot,2025-06-04,CIN,MIL,CIN
+777648,2,bottom,17,Stolen Base 2B,1B,665833,Oneil Cruz,2,1,Bot,2025-06-04,PIT,HOU,PIT
+777648,4,bottom,34,Stolen Base 3B,2B,665833,Oneil Cruz,3,1,Bot,2025-06-04,PIT,HOU,PIT
+777650,4,top,24,Stolen Base 2B,1B,663538,Nico Hoerner,2,1,Top,2025-06-04,WSH,CHC,CHC
+777650,6,bottom,40,Pickoff Caught Stealing 2B,1B,683083,Nasim Nuñez,2,0,Bot,2025-06-04,WSH,CHC,WSH
+777650,8,bottom,56,Stolen Base 3B,2B,683083,Nasim Nuñez,3,1,Bot,2025-06-04,WSH,CHC,WSH
+777651,9,bottom,62,Stolen Base 2B,1B,665489,Vladimir Guerrero Jr.,2,1,Bot,2025-06-04,TOR,PHI,TOR
+777652,1,bottom,8,Stolen Base 2B,1B,681393,Connor Norby,2,1,Bot,2025-06-04,MIA,COL,MIA
+777653,1,top,6,Stolen Base 3B,2B,682177,Daniel Schneemann,3,1,Top,2025-06-04,NYY,CLE,CLE
+777654,3,top,18,Caught Stealing 2B,1B,666971,Lourdes Gurriel Jr.,2,0,Top,2025-06-04,ATL,AZ,AZ
+777654,8,bottom,59,Stolen Base 2B,1B,663897,Luke Williams,2,1,Bot,2025-06-04,ATL,AZ,ATL
+777628,3,bottom,23,Stolen Base 2B,1B,593871,Jorge Polanco,2,1,Bot,2025-06-05,SEA,BAL,SEA
+777629,1,top,2,Caught Stealing 2B,1B,669701,Josh Smith,2,0,Top,2025-06-05,TB,TEX,TEX
+777629,4,top,21,Caught Stealing 2B,1B,694671,Wyatt Langford,2,0,Top,2025-06-05,TB,TEX,TEX
+777629,8,top,53,Stolen Base 2B,1B,669701,Josh Smith,2,1,Top,2025-06-05,TB,TEX,TEX
+777630,4,top,27,Stolen Base 2B,1B,701358,Cam Smith,2,1,Top,2025-06-05,PIT,HOU,HOU
+777630,4,top,28,Stolen Base 2B,1B,689200,Jacob Melton,2,1,Top,2025-06-05,PIT,HOU,HOU
+777630,7,top,51,Stolen Base 3B,2B,665161,Jeremy Peña,3,1,Top,2025-06-05,PIT,HOU,HOU
+777631,2,top,10,Stolen Base 2B,1B,621438,Tyrone Taylor,2,1,Top,2025-06-05,LAD,NYM,NYM
+777631,4,top,33,Stolen Base 2B,1B,607043,Brandon Nimmo,2,1,Top,2025-06-05,LAD,NYM,NYM
+777632,7,top,57,Stolen Base 2B,1B,807713,Matt Shaw,2,1,Top,2025-06-05,WSH,CHC,CHC
+777632,9,top,75,Stolen Base 2B,1B,807713,Matt Shaw,2,1,Top,2025-06-05,WSH,CHC,CHC
+777633,3,bottom,27,Stolen Base 2B,1B,656305,Matt Chapman,2,1,Bot,2025-06-05,SF,SD,SF
+777633,6,bottom,47,Stolen Base 2B,1B,666464,Jerar Encarnacion,2,1,Bot,2025-06-05,SF,SD,SF
+777634,2,top,13,Stolen Base 2B,1B,656716,Zach McKinstry,2,1,Top,2025-06-05,CWS,DET,DET
+777635,2,bottom,17,Stolen Base 2B,1B,687363,Victor Scott II,2,1,Bot,2025-06-05,STL,KC,STL
+777635,5,top,42,Stolen Base 2B,1B,672580,Maikel Garcia,2,1,Top,2025-06-05,STL,KC,KC
+777635,9,top,75,Stolen Base 2B,1B,672580,Maikel Garcia,2,1,Top,2025-06-05,STL,KC,KC
+777636,4,bottom,34,Stolen Base 2B,1B,671732,Lawrence Butler,2,1,Bot,2025-06-05,ATH,MIN,ATH
+777637,3,bottom,27,Stolen Base 2B,1B,664702,Myles Straw,2,1,Bot,2025-06-05,TOR,PHI,TOR
+777640,4,top,33,Caught Stealing 2B,1B,694374,Tim Tawa,2,0,Top,2025-06-05,ATL,AZ,AZ
+777640,4,bottom,36,Pickoff Caught Stealing 2B,1B,671739,Michael Harris II,2,0,Bot,2025-06-05,ATL,AZ,ATL
+777642,5,top,34,Stolen Base 2B,1B,677951,Bobby Witt Jr.,2,1,Top,2025-06-05,STL,KC,KC
+777644,1,top,4,Stolen Base 2B,1B,681807,David Fry,2,1,Top,2025-06-05,NYY,CLE,CLE
+777644,1,top,3,Stolen Base 3B,2B,608070,José Ramírez,3,1,Top,2025-06-05,NYY,CLE,CLE
+777644,6,bottom,44,Stolen Base 2B,1B,665862,Jazz Chisholm Jr.,2,1,Bot,2025-06-05,NYY,CLE,NYY
+777613,8,bottom,72,Stolen Base 2B,1B,649966,Luis Urías,2,1,Bot,2025-06-06,ATH,BAL,ATH
+777614,1,bottom,5,Caught Stealing 2B,1B,687263,Zach Neto,2,0,Bot,2025-06-06,LAA,SEA,LAA
+777614,3,top,15,Stolen Base 2B,1B,810938,Ben Williamson,2,1,Top,2025-06-06,LAA,SEA,SEA
+777614,3,bottom,20,Stolen Base 2B,1B,621035,Chris Taylor,2,1,Bot,2025-06-06,LAA,SEA,LAA
+777614,3,bottom,21,Stolen Base 2B,1B,687263,Zach Neto,2,1,Bot,2025-06-06,LAA,SEA,LAA
+777614,4,top,24,Stolen Base 3B,2B,677594,Julio Rodríguez,3,1,Top,2025-06-06,LAA,SEA,SEA
+777614,5,top,38,Stolen Base 2B,1B,663728,Cal Raleigh,2,1,Top,2025-06-06,LAA,SEA,SEA
+777615,7,top,53,Caught Stealing 2B,1B,666182,Bo Bichette,2,0,Top,2025-06-06,MIN,TOR,TOR
+777616,4,bottom,31,Caught Stealing 2B,1B,696100,Hunter Goodman,2,0,Bot,2025-06-06,COL,NYM,COL
+777617,5,bottom,40,Stolen Base 2B,1B,668930,Brice Turang,2,1,Bot,2025-06-06,MIL,SD,MIL
+777617,7,bottom,58,Stolen Base 2B,1B,694192,Jackson Chourio,2,1,Bot,2025-06-06,MIL,SD,MIL
+777618,2,bottom,17,Caught Stealing Home,3B,691019,Kyle Teel,4,0,Bot,2025-06-06,CWS,KC,CWS
+777618,4,top,28,Caught Stealing 2B,1B,671221,Drew Waters,2,0,Top,2025-06-06,CWS,KC,KC
+777619,7,bottom,62,Caught Stealing 2B,1B,671218,Heliot Ramos,2,0,Bot,2025-06-06,SF,ATL,SF
+777620,3,bottom,26,Stolen Base 2B,1B,691026,Masyn Winn,2,1,Bot,2025-06-06,STL,LAD,STL
+777621,1,top,3,Stolen Base 2B,1B,664761,Alec Bohm,2,1,Top,2025-06-06,PIT,PHI,PHI
+777621,1,top,3,Stolen Base 3B,2B,607208,Trea Turner,3,1,Top,2025-06-06,PIT,PHI,PHI
+777621,2,bottom,16,Caught Stealing 3B,2B,624428,Adam Frazier,3,0,Bot,2025-06-06,PIT,PHI,PIT
+777622,1,top,2,Stolen Base 2B,1B,665161,Jeremy Peña,2,1,Top,2025-06-06,CLE,HOU,HOU
+777623,5,top,34,Pickoff Caught Stealing 2B,1B,694374,Tim Tawa,2,0,Top,2025-06-06,CIN,AZ,AZ
+777625,2,bottom,16,Stolen Base 2B,1B,678554,Curtis Mead,2,1,Bot,2025-06-06,TB,MIA,TB
+777625,5,top,39,Caught Stealing 2B,1B,667472,Dane Myers,2,0,Top,2025-06-06,TB,MIA,MIA
+777625,5,bottom,43,Stolen Base 2B,1B,676609,José Caballero,2,1,Bot,2025-06-06,TB,MIA,TB
+777626,3,bottom,19,Stolen Base 2B,1B,656716,Zach McKinstry,2,1,Bot,2025-06-06,DET,CHC,DET
+777626,8,top,55,Caught Stealing 2B,1B,807713,Matt Shaw,2,0,Top,2025-06-06,DET,CHC,CHC
+777627,2,bottom,18,Stolen Base 2B,1B,592450,Aaron Judge,2,1,Bot,2025-06-06,NYY,BOS,NYY
+777627,2,bottom,21,Stolen Base 2B,1B,665862,Jazz Chisholm Jr.,2,1,Bot,2025-06-06,NYY,BOS,NYY
+777627,6,bottom,59,Stolen Base 2B,1B,665862,Jazz Chisholm Jr.,2,1,Bot,2025-06-06,NYY,BOS,NYY
+777627,6,bottom,59,Caught Stealing 3B,2B,665862,Jazz Chisholm Jr.,3,0,Bot,2025-06-06,NYY,BOS,NYY
+777597,9,top,71,Stolen Base 2B,1B,593428,Xander Bogaerts,2,1,Top,2025-06-07,MIL,SD,SD
+777597,9,top,71,Stolen Base 3B,2B,642180,Tyler Wade,3,1,Top,2025-06-07,MIL,SD,SD
+777597,9,top,72,Stolen Base 3B,2B,650333,Luis Arraez,3,1,Top,2025-06-07,MIL,SD,SD
+777599,2,bottom,22,Stolen Base 2B,1B,691016,Tyler Soderstrom,2,1,Bot,2025-06-07,ATH,BAL,ATH
+777599,7,top,64,Stolen Base 2B,1B,683002,Gunnar Henderson,2,1,Top,2025-06-07,ATH,BAL,BAL
+777601,1,bottom,7,Caught Stealing Home,3B,691026,Masyn Winn,4,0,Bot,2025-06-07,STL,LAD,STL
+777601,2,top,10,Stolen Base 2B,1B,571970,Max Muncy,2,1,Top,2025-06-07,STL,LAD,LAD
+777601,5,top,35,Stolen Base 2B,1B,808975,Hyeseong Kim,2,1,Top,2025-06-07,STL,LAD,LAD
+777603,3,top,21,Stolen Base 2B,1B,677594,Julio Rodríguez,2,1,Top,2025-06-07,LAA,SEA,SEA
+777603,3,top,23,Stolen Base 2B,1B,668227,Randy Arozarena,2,1,Top,2025-06-07,LAA,SEA,SEA
+777603,6,top,49,Stolen Base 2B,1B,670156,Miles Mastrobuoni,2,1,Top,2025-06-07,LAA,SEA,SEA
+777603,6,bottom,59,Stolen Base 2B,1B,687263,Zach Neto,2,1,Bot,2025-06-07,LAA,SEA,LAA
+777604,1,top,1,Stolen Base 2B,1B,596019,Francisco Lindor,2,1,Top,2025-06-07,COL,NYM,NYM
+777604,3,top,18,Stolen Base 2B,1B,596019,Francisco Lindor,2,1,Top,2025-06-07,COL,NYM,NYM
+777604,5,top,35,Stolen Base 2B,1B,677595,Ronny Mauricio,2,1,Top,2025-06-07,COL,NYM,NYM
+777605,2,bottom,15,Stolen Base 3B,2B,641355,Cody Bellinger,3,1,Bot,2025-06-07,NYY,BOS,NYY
+777605,5,top,45,Stolen Base 2B,1B,678882,Ceddanne Rafaela,2,1,Top,2025-06-07,NYY,BOS,BOS
+777605,8,bottom,70,Stolen Base 2B,1B,641355,Cody Bellinger,2,1,Bot,2025-06-07,NYY,BOS,NYY
+777607,5,bottom,34,Pickoff Caught Stealing 2B,1B,669707,Jared Triolo,2,0,Bot,2025-06-07,PIT,PHI,PIT
+777608,4,bottom,30,Caught Stealing 2B,1B,672356,Gabriel Arias,2,0,Bot,2025-06-07,CLE,HOU,CLE
+777608,5,top,36,Stolen Base 2B,1B,665161,Jeremy Peña,2,1,Top,2025-06-07,CLE,HOU,HOU
+777609,8,bottom,61,Stolen Base 2B,1B,678009,Parker Meadows,2,1,Bot,2025-06-07,DET,CHC,DET
+777610,4,bottom,28,Caught Stealing 2B,1B,671277,Luis García Jr.,2,0,Bot,2025-06-07,WSH,TEX,WSH
+777610,8,top,56,Stolen Base 2B,1B,666969,Adolis García,2,1,Top,2025-06-07,WSH,TEX,TEX
+777611,5,top,42,Stolen Base 2B,1B,672640,Otto Lopez,2,1,Top,2025-06-07,TB,MIA,MIA
+777611,10,top,82,Pickoff Caught Stealing 2B,1B,691594,Javier Sanoja,2,0,Top,2025-06-07,TB,MIA,MIA
+777583,3,top,23,Stolen Base 2B,1B,677595,Ronny Mauricio,2,1,Top,2025-06-08,COL,NYM,NYM
+777583,3,top,24,Stolen Base 3B,2B,621438,Tyrone Taylor,3,1,Top,2025-06-08,COL,NYM,NYM
+777586,8,bottom,60,Stolen Base 2B,1B,686217,Sal Frelick,2,1,Bot,2025-06-08,MIL,SD,MIL
+777587,2,bottom,14,Stolen Base 2B,1B,642086,Dominic Smith,2,1,Bot,2025-06-08,SF,ATL,SF
+777587,2,bottom,14,Stolen Base 3B,2B,656305,Matt Chapman,3,1,Bot,2025-06-08,SF,ATL,SF
+777588,2,top,13,Stolen Base 2B,1B,656896,Emmanuel Rivera,2,1,Top,2025-06-08,ATH,BAL,BAL
+777588,4,top,33,Stolen Base 2B,1B,691723,Coby Mayo,2,1,Top,2025-06-08,ATH,BAL,BAL
+777589,5,top,35,Stolen Base 2B,1B,668227,Randy Arozarena,2,1,Top,2025-06-08,LAA,SEA,SEA
+777590,4,top,29,Stolen Base 2B,1B,670231,John Rave,2,1,Top,2025-06-08,CWS,KC,KC
+777590,9,top,62,Stolen Base 2B,1B,671221,Drew Waters,2,1,Top,2025-06-08,CWS,KC,KC
+777591,1,bottom,4,Stolen Base 2B,1B,680757,Steven Kwan,2,1,Bot,2025-06-08,CLE,HOU,CLE
+777591,2,top,9,Stolen Base 2B,1B,676694,Jake Meyers,2,1,Top,2025-06-08,CLE,HOU,HOU
+777591,3,bottom,22,Stolen Base 2B,1B,608070,José Ramírez,2,1,Bot,2025-06-08,CLE,HOU,CLE
+777591,5,top,34,Stolen Base 2B,1B,689200,Jacob Melton,2,1,Top,2025-06-08,CLE,HOU,HOU
+777591,7,top,47,Stolen Base 2B,1B,676694,Jake Meyers,2,1,Top,2025-06-08,CLE,HOU,HOU
+777591,7,bottom,54,Stolen Base 3B,2B,669717,Will Wilson,3,1,Bot,2025-06-08,CLE,HOU,CLE
+777592,1,top,3,Caught Stealing 2B,1B,672640,Otto Lopez,2,0,Top,2025-06-08,TB,MIA,MIA
+777592,3,top,21,Stolen Base 2B,1B,672640,Otto Lopez,2,1,Top,2025-06-08,TB,MIA,MIA
+777592,8,bottom,61,Stolen Base 2B,1B,691406,Junior Caminero,2,1,Bot,2025-06-08,TB,MIA,TB
+777592,8,bottom,59,Stolen Base 3B,2B,676609,José Caballero,3,1,Bot,2025-06-08,TB,MIA,TB
+777593,8,top,66,Pickoff Caught Stealing 2B,1B,666152,David Hamilton,2,0,Top,2025-06-08,NYY,BOS,BOS
+777595,5,top,34,Caught Stealing 2B,1B,805249,Otto Kemp,2,0,Top,2025-06-08,PIT,PHI,PHI
+777595,7,bottom,48,Caught Stealing 2B,1B,663647,Ke'Bryan Hayes,2,0,Bot,2025-06-08,PIT,PHI,PIT
+777595,8,bottom,55,Stolen Base 2B,1B,665833,Oneil Cruz,2,1,Bot,2025-06-08,PIT,PHI,PIT
+777596,3,top,18,Stolen Base 2B,1B,664059,Sam Haggerty,2,1,Top,2025-06-08,WSH,TEX,TEX
+777596,3,bottom,21,Caught Stealing 2B,1B,696285,Jacob Young,2,0,Bot,2025-06-08,WSH,TEX,WSH
+777602,6,bottom,46,Pickoff Caught Stealing 3B,2B,682829,Elly De La Cruz,3,0,Bot,2025-06-08,CIN,AZ,CIN
+777574,1,top,1,Caught Stealing 2B,1B,669364,Xavier Edwards,2,0,Top,2025-06-09,PIT,MIA,MIA
+777575,1,bottom,5,Caught Stealing 2B,1B,694192,Jackson Chourio,2,0,Bot,2025-06-09,MIL,ATL,MIL
+777576,3,bottom,22,Stolen Base 3B,2B,694384,Nolan Schanuel,3,1,Bot,2025-06-09,LAA,ATH,LAA
+777576,5,top,33,Stolen Base 2B,1B,691777,Max Muncy,2,1,Top,2025-06-09,LAA,ATH,ATH
+777576,8,bottom,57,Stolen Base 2B,1B,687263,Zach Neto,2,1,Bot,2025-06-09,LAA,ATH,LAA
+777579,2,bottom,20,Stolen Base 2B,1B,665487,Fernando Tatis Jr.,2,1,Bot,2025-06-09,SD,LAD,SD
+777579,5,bottom,52,Stolen Base 2B,1B,593428,Xander Bogaerts,2,1,Bot,2025-06-09,SD,LAD,SD
+777580,1,bottom,6,Stolen Base 2B,1B,657041,Lane Thomas,2,1,Bot,2025-06-09,CLE,CIN,CLE
+777580,3,bottom,27,Stolen Base 3B,2B,608070,José Ramírez,3,1,Bot,2025-06-09,CLE,CIN,CLE
+777580,6,top,48,Stolen Base 2B,1B,641584,Jake Fraley,2,1,Top,2025-06-09,CLE,CIN,CIN
+777584,7,top,53,Stolen Base 2B,1B,670764,Taylor Walls,2,1,Top,2025-06-09,BOS,TB,TB
+777584,7,bottom,63,Stolen Base 2B,1B,596115,Trevor Story,2,1,Bot,2025-06-09,BOS,TB,BOS
+777584,8,bottom,72,Stolen Base 2B,1B,678882,Ceddanne Rafaela,2,1,Bot,2025-06-09,BOS,TB,BOS
+777584,9,top,75,Stolen Base 2B,1B,676609,José Caballero,2,1,Top,2025-06-09,BOS,TB,TB
+777584,9,top,75,Stolen Base 3B,2B,676609,José Caballero,3,1,Top,2025-06-09,BOS,TB,TB
+777557,2,top,12,Stolen Base 2B,1B,666969,Adolis García,2,1,Top,2025-06-10,MIN,TEX,TEX
+777557,6,top,53,Stolen Base 2B,1B,543760,Marcus Semien,2,1,Top,2025-06-10,MIN,TEX,TEX
+777559,5,top,37,Stolen Base 2B,1B,641487,J.P. Crawford,2,1,Top,2025-06-10,AZ,SEA,SEA
+777559,6,top,49,Stolen Base 2B,1B,686527,Dominic Canzone,2,1,Top,2025-06-10,AZ,SEA,SEA
+777559,6,bottom,53,Stolen Base 2B,1B,666971,Lourdes Gurriel Jr.,2,1,Bot,2025-06-10,AZ,SEA,AZ
+777559,6,bottom,56,Stolen Base 2B,1B,677950,Alek Thomas,2,1,Bot,2025-06-10,AZ,SEA,AZ
+777560,1,bottom,4,Stolen Base 2B,1B,665487,Fernando Tatis Jr.,2,1,Bot,2025-06-10,SD,LAD,SD
+777563,2,top,12,Stolen Base 2B,1B,666149,Tyler Fitzgerald,2,1,Top,2025-06-10,COL,SF,SF
+777563,6,bottom,50,Caught Stealing 2B,1B,641857,Ryan McMahon,2,0,Bot,2025-06-10,COL,SF,COL
+777563,7,bottom,57,Stolen Base 2B,1B,671289,Tyler Freeman,2,1,Bot,2025-06-10,COL,SF,COL
+777564,3,bottom,21,Caught Stealing 2B,1B,687263,Zach Neto,2,0,Bot,2025-06-10,LAA,ATH,LAA
+777564,8,bottom,60,Stolen Base 2B,1B,694384,Nolan Schanuel,2,1,Bot,2025-06-10,LAA,ATH,LAA
+777565,2,top,13,Stolen Base 2B,1B,676609,José Caballero,2,1,Top,2025-06-10,BOS,TB,TB
+777565,3,bottom,22,Stolen Base 2B,1B,680776,Jarren Duran,2,1,Bot,2025-06-10,BOS,TB,BOS
+777565,5,top,34,Stolen Base 2B,1B,676609,José Caballero,2,1,Top,2025-06-10,BOS,TB,TB
+777566,5,top,36,Stolen Base 2B,1B,660821,Jesús Sánchez,2,1,Top,2025-06-10,PIT,MIA,MIA
+777566,6,top,43,Stolen Base 2B,1B,676572,Eric Wagaman,2,1,Top,2025-06-10,PIT,MIA,MIA
+777566,6,top,44,Stolen Base 2B,1B,667472,Dane Myers,2,1,Top,2025-06-10,PIT,MIA,MIA
+777567,5,bottom,43,Stolen Base 2B,1B,689200,Jacob Melton,2,1,Bot,2025-06-10,HOU,CWS,HOU
+777567,7,top,52,Stolen Base 2B,1B,671284,Tim Elko,2,1,Top,2025-06-10,HOU,CWS,CWS
+777567,9,top,70,Caught Stealing 3B,2B,572191,Michael A. Taylor,3,0,Top,2025-06-10,HOU,CWS,CWS
+777568,7,bottom,54,Stolen Base 2B,1B,687401,Joey Ortiz,2,1,Bot,2025-06-10,MIL,ATL,MIL
+777569,2,bottom,12,Stolen Base 3B,2B,672356,Gabriel Arias,3,1,Bot,2025-06-10,CLE,CIN,CLE
+777569,4,top,23,Stolen Base 2B,1B,682829,Elly De La Cruz,2,1,Top,2025-06-10,CLE,CIN,CIN
+777570,2,bottom,17,Stolen Base 2B,1B,607043,Brandon Nimmo,2,1,Bot,2025-06-10,NYM,WSH,NYM
+777571,2,bottom,19,Stolen Base 2B,1B,669016,Brandon Marsh,2,1,Bot,2025-06-10,PHI,CHC,PHI
+777571,5,bottom,43,Stolen Base 2B,1B,607208,Trea Turner,2,1,Bot,2025-06-10,PHI,CHC,PHI
+777571,8,top,68,Stolen Base 2B,1B,673548,Seiya Suzuki,2,1,Top,2025-06-10,PHI,CHC,CHC
+777571,8,top,68,Stolen Base 3B,2B,663656,Kyle Tucker,3,1,Top,2025-06-10,PHI,CHC,CHC
+777572,6,top,43,Stolen Base 3B,2B,665862,Jazz Chisholm Jr.,3,1,Top,2025-06-10,KC,NYY,NYY
+777573,3,bottom,24,Stolen Base 2B,1B,702616,Jackson Holliday,2,1,Bot,2025-06-10,BAL,DET,BAL
+777545,4,top,34,Stolen Base 2B,1B,665489,Vladimir Guerrero Jr.,2,1,Top,2025-06-11,STL,TOR,TOR
+777545,7,top,57,Caught Stealing 2B,1B,676391,Ernie Clement,2,0,Top,2025-06-11,STL,TOR,TOR
+777545,7,bottom,61,Stolen Base 2B,1B,687363,Victor Scott II,2,1,Bot,2025-06-11,STL,TOR,STL
+777547,5,bottom,44,Stolen Base 2B,1B,686668,Brenton Doyle,2,1,Bot,2025-06-11,COL,SF,COL
+777547,8,top,67,Caught Stealing 2B,1B,666149,Tyler Fitzgerald,2,0,Top,2025-06-11,COL,SF,SF
+777548,3,top,19,Caught Stealing 2B,1B,663728,Cal Raleigh,2,0,Top,2025-06-11,AZ,SEA,SEA
+777549,1,bottom,7,Stolen Base 3B,2B,608070,José Ramírez,3,1,Bot,2025-06-11,CLE,CIN,CLE
+777549,2,bottom,13,Caught Stealing 2B,1B,666134,Nolan Jones,2,0,Bot,2025-06-11,CLE,CIN,CLE
+777550,4,bottom,34,Stolen Base 3B,2B,665161,Jeremy Peña,3,1,Bot,2025-06-11,HOU,CWS,HOU
+777551,2,top,16,Stolen Base 2B,1B,592450,Aaron Judge,2,1,Top,2025-06-11,KC,NYY,NYY
+777551,2,top,16,Stolen Base 3B,2B,700250,Ben Rice,3,1,Top,2025-06-11,KC,NYY,NYY
+777552,1,bottom,7,Stolen Base 2B,1B,665833,Oneil Cruz,2,1,Bot,2025-06-11,PIT,MIA,PIT
+777552,2,bottom,15,Stolen Base 2B,1B,663647,Ke'Bryan Hayes,2,1,Bot,2025-06-11,PIT,MIA,PIT
+777552,2,bottom,15,Stolen Base 3B,2B,663647,Ke'Bryan Hayes,3,1,Bot,2025-06-11,PIT,MIA,PIT
+777553,1,bottom,6,Stolen Base 2B,1B,656941,Kyle Schwarber,2,1,Bot,2025-06-11,PHI,CHC,PHI
+777553,1,bottom,6,Stolen Base 3B,2B,607208,Trea Turner,3,1,Bot,2025-06-11,PHI,CHC,PHI
+777553,8,bottom,66,Caught Stealing 2B,1B,681082,Bryson Stott,2,0,Bot,2025-06-11,PHI,CHC,PHI
+777555,6,bottom,45,Stolen Base 2B,1B,683146,Brett Baty,2,1,Bot,2025-06-11,NYM,WSH,NYM
+777556,2,bottom,12,Caught Stealing 2B,1B,650489,Willi Castro,2,0,Bot,2025-06-11,MIN,TEX,MIN
+777556,4,top,28,Pickoff Caught Stealing 2B,1B,694497,Evan Carter,2,0,Top,2025-06-11,MIN,TEX,TEX
+777556,6,bottom,50,Stolen Base 2B,1B,621439,Byron Buxton,2,1,Bot,2025-06-11,MIN,TEX,MIN
+777556,7,top,54,Stolen Base 2B,1B,694497,Evan Carter,2,1,Top,2025-06-11,MIN,TEX,TEX
+777561,2,top,16,Stolen Base 2B,1B,666139,Josh Lowe,2,1,Top,2025-06-11,BOS,TB,TB
+777561,4,bottom,35,Stolen Base 2B,1B,678882,Ceddanne Rafaela,2,1,Bot,2025-06-11,BOS,TB,BOS
+777561,5,top,38,Caught Stealing 2B,1B,670764,Taylor Walls,2,0,Top,2025-06-11,BOS,TB,TB
+777561,8,top,61,Caught Stealing 3B,2B,676609,José Caballero,3,0,Top,2025-06-11,BOS,TB,TB
+777562,1,bottom,6,Stolen Base 2B,1B,683002,Gunnar Henderson,2,1,Bot,2025-06-11,BAL,DET,BAL
+777562,6,bottom,48,Stolen Base 2B,1B,602104,Ramón Urías,2,1,Bot,2025-06-11,BAL,DET,BAL
+777562,8,bottom,67,Stolen Base 2B,1B,702616,Jackson Holliday,2,1,Bot,2025-06-11,BAL,DET,BAL
+777533,6,top,53,Stolen Base 2B,1B,694497,Evan Carter,2,1,Top,2025-06-12,MIN,TEX,TEX
+777540,9,top,64,Stolen Base 2B,1B,656716,Zach McKinstry,2,1,Top,2025-06-12,BAL,DET,DET
+777541,3,top,16,Caught Stealing 2B,1B,665833,Oneil Cruz,2,0,Top,2025-06-12,CHC,PIT,PIT
+777544,1,bottom,8,Stolen Base 2B,1B,665742,Juan Soto,2,1,Bot,2025-06-12,NYM,WSH,NYM
+777544,2,bottom,15,Stolen Base 2B,1B,621438,Tyrone Taylor,2,1,Bot,2025-06-12,NYM,WSH,NYM
+777544,8,bottom,60,Caught Stealing 3B,2B,516782,Starling Marte,3,0,Bot,2025-06-12,NYM,WSH,NYM
+777546,3,top,20,Stolen Base 3B,2B,678246,Miguel Vargas,3,1,Top,2025-06-12,HOU,CWS,CWS
+777546,3,bottom,27,Stolen Base 3B,2B,514888,Jose Altuve,3,1,Bot,2025-06-12,HOU,CWS,HOU
+777520,7,bottom,58,Stolen Base 2B,1B,668227,Randy Arozarena,2,1,Bot,2025-06-13,SEA,CLE,SEA
+777525,6,bottom,43,Stolen Base 2B,1B,686217,Sal Frelick,2,1,Bot,2025-06-13,MIL,STL,MIL
+777525,6,bottom,46,Caught Stealing 2B,1B,592885,Christian Yelich,2,0,Bot,2025-06-13,MIL,STL,MIL
+777525,9,top,66,Stolen Base 2B,1B,687363,Victor Scott II,2,1,Top,2025-06-13,MIL,STL,STL
+777526,6,top,39,Stolen Base 2B,1B,665833,Oneil Cruz,2,1,Top,2025-06-13,CHC,PIT,PIT
+777526,7,top,48,Caught Stealing 2B,1B,624428,Adam Frazier,2,0,Top,2025-06-13,CHC,PIT,PIT
+777526,8,bottom,61,Stolen Base 2B,1B,691718,Pete Crow-Armstrong,2,1,Bot,2025-06-13,CHC,PIT,CHC
+777526,10,top,70,Stolen Base 2B,1B,663647,Ke'Bryan Hayes,2,1,Top,2025-06-13,CHC,PIT,PIT
+777526,10,top,70,Stolen Base 3B,2B,624428,Adam Frazier,3,1,Top,2025-06-13,CHC,PIT,PIT
+777527,2,bottom,18,Caught Stealing 3B,2B,514888,Jose Altuve,3,0,Bot,2025-06-13,HOU,MIN,HOU
+777528,4,top,24,Caught Stealing 2B,1B,691406,Junior Caminero,2,0,Top,2025-06-13,NYM,TB,TB
+777528,6,top,51,Stolen Base 2B,1B,670224,Kameron Misner,2,1,Top,2025-06-13,NYM,TB,TB
+777529,1,bottom,7,Stolen Base 2B,1B,672580,Maikel Garcia,2,1,Bot,2025-06-13,KC,ATH,KC
+777529,4,top,33,Stolen Base 3B,2B,671732,Lawrence Butler,3,1,Top,2025-06-13,KC,ATH,ATH
+777530,9,top,88,Caught Stealing 2B,1B,669364,Xavier Edwards,2,0,Top,2025-06-13,WSH,MIA,MIA
+777535,5,bottom,47,Stolen Base 2B,1B,660670,Ronald Acuña Jr.,2,1,Bot,2025-06-13,ATL,COL,ATL
+777537,2,bottom,13,Stolen Base 2B,1B,596115,Trevor Story,2,1,Bot,2025-06-13,BOS,NYY,BOS
+777537,2,bottom,15,Pickoff Caught Stealing 2B,1B,678882,Ceddanne Rafaela,2,0,Bot,2025-06-13,BOS,NYY,BOS
+777537,5,top,31,Stolen Base 2B,1B,691176,Jasson Domínguez,2,1,Top,2025-06-13,BOS,NYY,NYY
+777537,10,top,68,Caught Stealing 3B,2B,683011,Anthony Volpe,3,0,Top,2025-06-13,BOS,NYY,NYY
+777538,6,bottom,54,Stolen Base 2B,1B,656716,Zach McKinstry,2,1,Bot,2025-06-13,DET,CIN,DET
+777539,2,top,11,Stolen Base 2B,1B,650859,Luis Rengifo,2,1,Top,2025-06-13,BAL,LAA,LAA
+777539,6,top,43,Stolen Base 2B,1B,666176,Jo Adell,2,1,Top,2025-06-13,BAL,LAA,LAA
+777507,1,bottom,5,Stolen Base 2B,1B,641487,J.P. Crawford,2,1,Bot,2025-06-14,SEA,CLE,SEA
+777507,1,bottom,6,Stolen Base 2B,1B,677594,Julio Rodríguez,2,1,Bot,2025-06-14,SEA,CLE,SEA
+777507,2,top,12,Stolen Base 2B,1B,682177,Daniel Schneemann,2,1,Top,2025-06-14,SEA,CLE,CLE
+777507,5,bottom,43,Pickoff Caught Stealing 3B,2B,641487,J.P. Crawford,3,0,Bot,2025-06-14,SEA,CLE,SEA
+777507,6,top,48,Stolen Base 2B,1B,666134,Nolan Jones,2,1,Top,2025-06-14,SEA,CLE,CLE
+777507,9,bottom,71,Stolen Base 2B,1B,664238,Dylan Moore,2,1,Bot,2025-06-14,SEA,CLE,SEA
+777510,6,top,37,Stolen Base 2B,1B,621439,Byron Buxton,2,1,Top,2025-06-14,HOU,MIN,MIN
+777510,7,bottom,50,Stolen Base 2B,1B,676694,Jake Meyers,2,1,Bot,2025-06-14,HOU,MIN,HOU
+777510,8,top,53,Stolen Base 2B,1B,664056,Harrison Bader,2,1,Top,2025-06-14,HOU,MIN,MIN
+777511,3,bottom,23,Stolen Base 3B,2B,672580,Maikel Garcia,3,1,Bot,2025-06-14,KC,ATH,KC
+777511,4,top,27,Stolen Base 2B,1B,691016,Tyler Soderstrom,2,1,Top,2025-06-14,KC,ATH,ATH
+777511,5,top,35,Stolen Base 2B,1B,672016,Denzel Clarke,2,1,Top,2025-06-14,KC,ATH,ATH
+777512,1,bottom,6,Stolen Base 2B,1B,686217,Sal Frelick,2,1,Bot,2025-06-14,MIL,STL,MIL
+777513,3,bottom,18,Stolen Base 2B,1B,663538,Nico Hoerner,2,1,Bot,2025-06-14,CHC,PIT,CHC
+777513,4,bottom,26,Stolen Base 2B,1B,691718,Pete Crow-Armstrong,2,1,Bot,2025-06-14,CHC,PIT,CHC
+777513,6,top,37,Pickoff Caught Stealing 2B,1B,502054,Tommy Pham,2,0,Top,2025-06-14,CHC,PIT,PIT
+777515,4,bottom,28,Stolen Base 2B,1B,666971,Lourdes Gurriel Jr.,2,1,Bot,2025-06-14,AZ,SD,AZ
+777515,7,top,55,Caught Stealing 2B,2B,592518,Manny Machado,2,0,Top,2025-06-14,AZ,SD,SD
+777516,7,top,54,Pickoff Caught Stealing 3B,2B,691176,Jasson Domínguez,3,0,Top,2025-06-14,BOS,NYY,NYY
+777517,4,bottom,32,Stolen Base 2B,1B,672761,Wenceel Pérez,2,1,Bot,2025-06-14,DET,CIN,DET
+777518,5,top,43,Caught Stealing 2B,1B,666139,Josh Lowe,2,0,Top,2025-06-14,NYM,TB,TB
+777518,5,top,42,Caught Stealing 3B,2B,670764,Taylor Walls,3,0,Top,2025-06-14,NYM,TB,TB
+777519,3,bottom,27,Stolen Base 2B,1B,683002,Gunnar Henderson,2,1,Bot,2025-06-14,BAL,LAA,BAL
+777519,8,top,69,Caught Stealing 2B,1B,687263,Zach Neto,2,0,Top,2025-06-14,BAL,LAA,LAA
+777491,7,top,49,Stolen Base 3B,2B,665487,Fernando Tatis Jr.,3,1,Top,2025-06-15,AZ,SD,SD
+777492,7,bottom,53,Stolen Base 2B,1B,687401,Joey Ortiz,2,1,Bot,2025-06-15,MIL,STL,MIL
+777493,5,top,36,Stolen Base 2B,1B,668942,Josh Rojas,2,1,Top,2025-06-15,TEX,CWS,CWS
+777493,7,top,55,Caught Stealing 2B,1B,668942,Josh Rojas,2,0,Top,2025-06-15,TEX,CWS,CWS
+777493,8,top,64,Stolen Base 2B,1B,691019,Kyle Teel,2,1,Top,2025-06-15,TEX,CWS,CWS
+777494,9,bottom,64,Stolen Base 2B,1B,665161,Jeremy Peña,2,1,Bot,2025-06-15,HOU,MIN,HOU
+777495,3,bottom,24,Stolen Base 2B,1B,668227,Randy Arozarena,2,1,Bot,2025-06-15,SEA,CLE,SEA
+777495,5,bottom,39,Stolen Base 2B,1B,668227,Randy Arozarena,2,1,Bot,2025-06-15,SEA,CLE,SEA
+777496,5,bottom,40,Pickoff Caught Stealing 2B,1B,677951,Bobby Witt Jr.,2,0,Bot,2025-06-15,KC,ATH,KC
+777496,5,top,37,Caught Stealing 3B,2B,671732,Lawrence Butler,3,0,Top,2025-06-15,KC,ATH,ATH
+777496,7,bottom,57,Stolen Base 2B,1B,686475,Tyler Tolbert,2,1,Bot,2025-06-15,KC,ATH,KC
+777497,1,bottom,7,Stolen Base 2B,1B,664023,Ian Happ,2,1,Bot,2025-06-15,CHC,PIT,CHC
+777497,10,bottom,71,Stolen Base 2B,1B,663656,Kyle Tucker,2,1,Bot,2025-06-15,CHC,PIT,CHC
+777497,10,bottom,71,Stolen Base 3B,2B,660644,Vidal Bruján,3,1,Bot,2025-06-15,CHC,PIT,CHC
+777499,3,bottom,18,Stolen Base 2B,1B,805249,Otto Kemp,2,1,Bot,2025-06-15,PHI,TOR,PHI
+777499,4,bottom,31,Caught Stealing 2B,1B,805249,Otto Kemp,2,0,Bot,2025-06-15,PHI,TOR,PHI
+777500,3,top,21,Pickoff Caught Stealing 3B,2B,700250,Ben Rice,3,0,Top,2025-06-15,BOS,NYY,NYY
+777501,1,bottom,7,Caught Stealing 2B,1B,683002,Gunnar Henderson,2,0,Bot,2025-06-15,BAL,LAA,BAL
+777502,1,bottom,5,Stolen Base 2B,1B,607043,Brandon Nimmo,2,1,Bot,2025-06-15,NYM,TB,NYM
+777503,1,top,4,Stolen Base 2B,1B,672640,Otto Lopez,2,1,Top,2025-06-15,WSH,MIA,MIA
+777503,4,bottom,37,Stolen Base 2B,1B,677588,José Tena,2,1,Bot,2025-06-15,WSH,MIA,WSH
+777505,4,top,29,Caught Stealing 2B,1B,687952,Christian Encarnacion-Strand,2,0,Top,2025-06-15,DET,CIN,CIN
+777486,7,bottom,48,Stolen Base 2B,1B,593871,Jorge Polanco,2,1,Bot,2025-06-16,SEA,BOS,SEA
+777487,1,top,4,Stolen Base 3B,2B,687263,Zach Neto,3,1,Top,2025-06-16,NYY,LAA,LAA
+777487,9,bottom,67,Stolen Base 2B,1B,683011,Anthony Volpe,2,1,Bot,2025-06-16,NYY,LAA,NYY
+777488,1,top,2,Stolen Base 2B,1B,671289,Tyler Freeman,2,1,Top,2025-06-16,WSH,COL,COL
+777488,4,bottom,27,Stolen Base 2B,1B,682928,CJ Abrams,2,1,Bot,2025-06-16,WSH,COL,WSH
+777488,4,bottom,27,Stolen Base 3B,2B,682928,CJ Abrams,3,1,Bot,2025-06-16,WSH,COL,WSH
+777488,8,bottom,58,Caught Stealing 2B,1B,695578,James Wood,2,0,Bot,2025-06-16,WSH,COL,WSH
+777488,9,top,64,Stolen Base 2B,1B,656541,Sam Hilliard,2,1,Top,2025-06-16,WSH,COL,COL
+777490,4,bottom,37,Stolen Base 2B,1B,605141,Mookie Betts,2,1,Bot,2025-06-16,LAD,SD,LAD
+777490,5,bottom,44,Stolen Base 2B,1B,571970,Max Muncy,2,1,Bot,2025-06-16,LAD,SD,LAD
+777467,5,top,38,Stolen Base Home,3B,575929,Willson Contreras,4,1,Top,2025-06-17,CWS,STL,STL
+777468,4,top,24,Stolen Base 2B,1B,686469,Vinnie Pasquantino,2,1,Top,2025-06-17,TEX,KC,KC
+777469,1,top,6,Caught Stealing 2B,1B,676694,Jake Meyers,2,0,Top,2025-06-17,ATH,HOU,HOU
+777469,5,top,42,Caught Stealing 3B,2B,701358,Cam Smith,3,0,Top,2025-06-17,ATH,HOU,HOU
+777471,8,top,66,Stolen Base 2B,1B,630105,Jake Cronenworth,2,1,Top,2025-06-17,LAD,SD,SD
+777471,8,top,68,Stolen Base 2B,1B,669369,Bryce Johnson,2,1,Top,2025-06-17,LAD,SD,SD
+777473,2,bottom,14,Stolen Base 2B,1B,642133,Rowdy Tellez,2,1,Bot,2025-06-17,SEA,BOS,SEA
+777473,4,bottom,32,Stolen Base 2B,1B,641487,J.P. Crawford,2,1,Bot,2025-06-17,SEA,BOS,SEA
+777473,4,bottom,34,Stolen Base 3B,2B,663728,Cal Raleigh,3,1,Bot,2025-06-17,SEA,BOS,SEA
+777475,3,top,22,Caught Stealing 2B,1B,672744,Alexander Canario,2,0,Top,2025-06-17,DET,PIT,PIT
+777476,3,bottom,26,Stolen Base 2B,1B,691176,Jasson Domínguez,2,1,Bot,2025-06-17,NYY,LAA,NYY
+777477,9,top,68,Stolen Base 2B,1B,666185,Dylan Carlson,2,1,Top,2025-06-17,TB,BAL,BAL
+777477,9,top,71,Caught Stealing 3B,2B,702616,Jackson Holliday,3,0,Top,2025-06-17,TB,BAL,BAL
+777478,4,bottom,28,Stolen Base 2B,1B,682829,Elly De La Cruz,2,1,Bot,2025-06-17,CIN,MIN,CIN
+777478,4,bottom,32,Stolen Base 2B,1B,668715,Spencer Steer,2,1,Bot,2025-06-17,CIN,MIN,CIN
+777478,8,top,67,Caught Stealing 2B,1B,680577,DaShawn Keirsey Jr.,2,0,Top,2025-06-17,CIN,MIN,MIN
+777479,9,top,75,Pickoff Caught Stealing 2B,1B,672695,Geraldo Perdomo,2,0,Top,2025-06-17,TOR,AZ,AZ
+777480,1,top,2,Caught Stealing 2B,1B,671289,Tyler Freeman,2,0,Top,2025-06-17,WSH,COL,COL
+777480,3,bottom,22,Stolen Base 2B,1B,682928,CJ Abrams,2,1,Bot,2025-06-17,WSH,COL,WSH
+777480,7,top,53,Stolen Base 2B,1B,666160,Mickey Moniak,2,1,Top,2025-06-17,WSH,COL,COL
+777481,3,bottom,19,Stolen Base 2B,1B,669364,Xavier Edwards,2,1,Bot,2025-06-17,MIA,PHI,MIA
+777481,4,bottom,30,Stolen Base 2B,1B,681393,Connor Norby,2,1,Bot,2025-06-17,MIA,PHI,MIA
+777482,6,top,48,Stolen Base 2B,1B,668930,Brice Turang,2,1,Top,2025-06-17,CHC,MIL,MIL
+777482,6,top,50,Caught Stealing 2B,1B,687401,Joey Ortiz,2,0,Top,2025-06-17,CHC,MIL,MIL
+777489,3,top,19,Pickoff Caught Stealing 2B,1B,665742,Juan Soto,2,0,Top,2025-06-17,ATL,NYM,NYM
+777453,6,top,44,Stolen Base 2B,1B,701350,Roman Anthony,2,1,Top,2025-06-18,SEA,BOS,BOS
+777454,1,top,3,Caught Stealing 2B,1B,608070,José Ramírez,2,0,Top,2025-06-18,SF,CLE,CLE
+777454,5,top,37,Stolen Base 2B,1B,467793,Carlos Santana,2,1,Top,2025-06-18,SF,CLE,CLE
+777456,3,bottom,25,Caught Stealing 2B,1B,805779,Jacob Wilson,2,0,Bot,2025-06-18,ATH,HOU,ATH
+777460,2,bottom,17,Caught Stealing 2B,1B,664059,Sam Haggerty,2,0,Bot,2025-06-18,TEX,KC,TEX
+777460,3,top,20,Stolen Base 2B,1B,664728,Kyle Isbel,2,1,Top,2025-06-18,TEX,KC,KC
+777460,4,top,32,Pickoff Caught Stealing 2B,1B,666023,Freddy Fermin,2,0,Top,2025-06-18,TEX,KC,KC
+777461,1,bottom,5,Stolen Base 2B,1B,682928,CJ Abrams,2,1,Bot,2025-06-18,WSH,COL,WSH
+777461,2,bottom,13,Stolen Base 2B,1B,691781,Brady House,2,1,Bot,2025-06-18,WSH,COL,WSH
+777461,3,bottom,23,Caught Stealing 2B,1B,696285,Jacob Young,2,0,Bot,2025-06-18,WSH,COL,WSH
+777462,1,bottom,6,Caught Stealing 2B,1B,665489,Vladimir Guerrero Jr.,2,0,Bot,2025-06-18,TOR,AZ,TOR
+777463,3,bottom,34,Stolen Base 2B,1B,676609,José Caballero,2,1,Bot,2025-06-18,TB,BAL,TB
+777463,5,bottom,50,Stolen Base 2B,1B,676609,José Caballero,2,1,Bot,2025-06-18,TB,BAL,TB
+777463,6,top,57,Stolen Base 2B,1B,681297,Colton Cowser,2,1,Top,2025-06-18,TB,BAL,BAL
+777463,6,bottom,62,Caught Stealing 2B,1B,676609,José Caballero,2,0,Bot,2025-06-18,TB,BAL,TB
+777463,7,bottom,72,Stolen Base 2B,1B,666139,Josh Lowe,2,1,Bot,2025-06-18,TB,BAL,TB
+777465,8,top,61,Stolen Base 2B,1B,681082,Bryson Stott,2,1,Top,2025-06-18,MIA,PHI,PHI
+777466,2,top,8,Caught Stealing 2B,1B,681351,Logan O'Hoppe,2,0,Top,2025-06-18,NYY,LAA,LAA
+777466,2,bottom,14,Caught Stealing 2B,1B,683011,Anthony Volpe,2,0,Bot,2025-06-18,NYY,LAA,NYY
+777466,3,top,18,Stolen Base 2B,1B,664068,Scott Kingery,2,1,Top,2025-06-18,NYY,LAA,LAA
+777474,3,bottom,28,Caught Stealing 2B,1B,666181,Will Benson,2,0,Bot,2025-06-18,CIN,MIN,CIN
+777440,3,top,19,Stolen Base 2B,1B,680757,Steven Kwan,2,1,Top,2025-06-19,SF,CLE,CLE
+777440,3,top,21,Stolen Base 2B,1B,467793,Carlos Santana,2,1,Top,2025-06-19,SF,CLE,CLE
+777440,6,bottom,46,Caught Stealing 2B,1B,671218,Heliot Ramos,2,0,Bot,2025-06-19,SF,CLE,SF
+777441,6,bottom,53,Stolen Base 2B,1B,680862,Willie MacIver,2,1,Bot,2025-06-19,ATH,HOU,ATH
+777444,2,top,10,Caught Stealing 2B,1B,681082,Bryson Stott,2,0,Top,2025-06-19,MIA,PHI,PHI
+777445,3,top,14,Caught Stealing 2B,1B,656541,Sam Hilliard,2,0,Top,2025-06-19,WSH,COL,COL
+777445,3,bottom,18,Caught Stealing 2B,1B,696285,Jacob Young,2,0,Bot,2025-06-19,WSH,COL,WSH
+777446,2,top,9,Caught Stealing 2B,1B,657656,Ramón Laureano,2,0,Top,2025-06-19,TB,BAL,BAL
+777446,3,bottom,17,Stolen Base 2B,1B,676609,José Caballero,2,1,Bot,2025-06-19,TB,BAL,TB
+777447,1,bottom,9,Stolen Base 2B,1B,805367,Chase Meidroth,2,1,Bot,2025-06-19,CWS,STL,CWS
+777447,2,top,12,Caught Stealing 2B,1B,663457,Lars Nootbaar,2,0,Top,2025-06-19,CWS,STL,STL
+777447,5,bottom,42,Stolen Base 2B,1B,678246,Miguel Vargas,2,1,Bot,2025-06-19,CWS,STL,CWS
+777447,7,bottom,62,Stolen Base 2B,1B,673357,Luis Robert Jr.,2,1,Bot,2025-06-19,CWS,STL,CWS
+777448,5,top,36,Stolen Base 2B,1B,647304,Josh Naylor,2,1,Top,2025-06-19,TOR,AZ,AZ
+777448,9,top,71,Caught Stealing 2B,1B,656976,Pavin Smith,2,0,Top,2025-06-19,TOR,AZ,AZ
+777449,6,bottom,49,Caught Stealing 3B,2B,683011,Anthony Volpe,3,0,Bot,2025-06-19,NYY,LAA,NYY
+777450,3,top,23,Stolen Base 3B,2B,592885,Christian Yelich,3,1,Top,2025-06-19,CHC,MIL,MIL
+777450,7,top,56,Caught Stealing 2B,1B,668930,Brice Turang,2,0,Top,2025-06-19,CHC,MIL,MIL
+777450,9,top,74,Stolen Base 2B,1B,694192,Jackson Chourio,2,1,Top,2025-06-19,CHC,MIL,MIL
+777455,2,top,10,Stolen Base 2B,1B,621438,Tyrone Taylor,2,1,Top,2025-06-19,ATL,NYM,NYM
+777455,3,top,19,Stolen Base 3B,2B,607043,Brandon Nimmo,3,1,Top,2025-06-19,ATL,NYM,NYM
+777458,3,top,18,Stolen Base 2B,1B,687363,Victor Scott II,2,1,Top,2025-06-19,CWS,STL,STL
+777458,9,bottom,76,Stolen Base 2B,1B,681962,Vinny Capra,2,1,Bot,2025-06-19,CWS,STL,CWS
+777464,6,top,46,Stolen Base 2B,1B,669261,Jack Suwinski,2,1,Top,2025-06-19,DET,PIT,PIT
+777425,5,top,39,Stolen Base 2B,1B,680776,Jarren Duran,2,1,Top,2025-06-20,SF,BOS,BOS
+777426,4,bottom,30,Caught Stealing 2B,1B,593428,Xander Bogaerts,2,0,Bot,2025-06-20,SD,KC,SD
+777426,4,top,26,Caught Stealing 3B,2B,672580,Maikel Garcia,3,0,Top,2025-06-20,SD,KC,KC
+777426,8,top,67,Stolen Base 3B,2B,670231,John Rave,3,1,Top,2025-06-20,SD,KC,KC
+777426,9,top,76,Stolen Base 2B,1B,686475,Tyler Tolbert,2,1,Top,2025-06-20,SD,KC,KC
+777427,2,bottom,13,Caught Stealing 2B,1B,681624,Andy Pages,2,0,Bot,2025-06-20,LAD,WSH,LAD
+777428,2,top,11,Caught Stealing 2B,1B,676694,Jake Meyers,2,0,Top,2025-06-20,LAA,HOU,HOU
+777428,10,top,78,Pickoff Caught Stealing 3B,2B,665161,Jeremy Peña,3,0,Top,2025-06-20,LAA,HOU,HOU
+777429,8,bottom,62,Stolen Base 2B,1B,691016,Tyler Soderstrom,2,1,Bot,2025-06-20,ATH,CLE,ATH
+777430,1,top,4,Stolen Base 2B,1B,666971,Lourdes Gurriel Jr.,2,1,Top,2025-06-20,COL,AZ,AZ
+777432,4,top,26,Stolen Base 2B,1B,694497,Evan Carter,2,1,Top,2025-06-20,PIT,TEX,TEX
+777433,3,bottom,19,Stolen Base 2B,1B,687363,Victor Scott II,2,1,Bot,2025-06-20,STL,CIN,STL
+777434,2,top,10,Caught Stealing 2B,1B,686555,Isaac Collins,2,0,Top,2025-06-20,MIN,MIL,MIL
+777434,4,top,21,Stolen Base 2B,1B,694192,Jackson Chourio,2,1,Top,2025-06-20,MIN,MIL,MIL
+777434,6,top,39,Pickoff Caught Stealing 2B,1B,668930,Brice Turang,2,0,Top,2025-06-20,MIN,MIL,MIL
+777436,4,top,27,Stolen Base 2B,1B,663728,Cal Raleigh,2,1,Top,2025-06-20,CHC,SEA,SEA
+777437,3,bottom,24,Stolen Base 2B,1B,656941,Kyle Schwarber,2,1,Bot,2025-06-20,PHI,NYM,PHI
+777438,5,top,42,Stolen Base 2B,1B,702616,Jackson Holliday,2,1,Top,2025-06-20,NYY,BAL,BAL
+777439,3,bottom,24,Caught Stealing 2B,1B,667472,Dane Myers,2,0,Bot,2025-06-20,MIA,ATL,MIA
+777439,5,top,39,Stolen Base 2B,1B,660670,Ronald Acuña Jr.,2,1,Top,2025-06-20,MIA,ATL,ATL
+777439,7,bottom,57,Stolen Base 2B,1B,669364,Xavier Edwards,2,1,Bot,2025-06-20,MIA,ATL,MIA
+777410,1,bottom,7,Stolen Base 2B,1B,671289,Tyler Freeman,2,1,Bot,2025-06-21,COL,AZ,COL
+777410,2,top,13,Stolen Base 2B,1B,694374,Tim Tawa,2,1,Top,2025-06-21,COL,AZ,AZ
+777410,4,bottom,33,Stolen Base 2B,1B,669911,Michael Toglia,2,1,Bot,2025-06-21,COL,AZ,COL
+777410,5,bottom,42,Caught Stealing 2B,1B,671289,Tyler Freeman,2,0,Bot,2025-06-21,COL,AZ,COL
+777410,7,bottom,55,Stolen Base 2B,1B,656541,Sam Hilliard,2,1,Bot,2025-06-21,COL,AZ,COL
+777411,8,top,63,Stolen Base 2B,1B,657041,Lane Thomas,2,1,Top,2025-06-21,ATH,CLE,CLE
+777412,1,top,3,Stolen Base 2B,1B,592885,Christian Yelich,2,1,Top,2025-06-21,MIN,MIL,MIL
+777413,3,top,19,Stolen Base 2B,1B,672580,Maikel Garcia,2,1,Top,2025-06-21,SD,KC,KC
+777415,11,top,84,Stolen Base 2B,1B,656582,Connor Joe,2,1,Top,2025-06-21,STL,CIN,CIN
+777416,5,top,31,Stolen Base 2B,1B,695734,Daylen Lile,2,1,Top,2025-06-21,LAD,WSH,WSH
+777417,9,top,63,Stolen Base 2B,1B,681987,Nate Eaton,2,1,Top,2025-06-21,SF,BOS,BOS
+777420,1,bottom,13,Stolen Base 2B,1B,670764,Taylor Walls,2,1,Bot,2025-06-21,TB,DET,TB
+777421,1,bottom,7,Stolen Base 3B,2B,665833,Oneil Cruz,3,1,Bot,2025-06-21,PIT,TEX,PIT
+777421,2,bottom,13,Stolen Base 2B,1B,624428,Adam Frazier,2,1,Bot,2025-06-21,PIT,TEX,PIT
+777422,1,top,2,Stolen Base 2B,1B,676059,Jordan Westburg,2,1,Top,2025-06-21,NYY,BAL,BAL
+777424,2,top,13,Stolen Base 2B,1B,671739,Michael Harris II,2,1,Top,2025-06-21,MIA,ATL,ATL
+777424,3,bottom,23,Stolen Base 3B,2B,660821,Jesús Sánchez,3,1,Bot,2025-06-21,MIA,ATL,MIA
+777395,7,top,54,Pickoff Caught Stealing 2B,1B,663853,Romy Gonzalez,2,0,Top,2025-06-22,SF,BOS,BOS
+777396,3,top,20,Stolen Base 2B,1B,672580,Maikel Garcia,2,1,Top,2025-06-22,SD,KC,KC
+777397,3,top,18,Stolen Base 2B,1B,676694,Jake Meyers,2,1,Top,2025-06-22,LAA,HOU,HOU
+777397,5,top,36,Stolen Base 2B,1B,676694,Jake Meyers,2,1,Top,2025-06-22,LAA,HOU,HOU
+777397,6,top,51,Caught Stealing 2B,1B,514888,Jose Altuve,2,0,Top,2025-06-22,LAA,HOU,HOU
+777398,7,top,51,Caught Stealing 2B,1B,696285,Jacob Young,2,0,Top,2025-06-22,LAD,WSH,WSH
+777399,1,bottom,5,Stolen Base 2B,1B,671289,Tyler Freeman,2,1,Bot,2025-06-22,COL,AZ,COL
+777399,5,bottom,34,Stolen Base 2B,1B,686668,Brenton Doyle,2,1,Bot,2025-06-22,COL,AZ,COL
+777399,5,bottom,40,Stolen Base 2B,1B,687597,Jordan Beck,2,1,Bot,2025-06-22,COL,AZ,COL
+777400,2,top,10,Stolen Base 2B,1B,682657,Angel Martínez,2,1,Top,2025-06-22,ATH,CLE,CLE
+777401,4,bottom,41,Stolen Base 2B,1B,621439,Byron Buxton,2,1,Bot,2025-06-22,MIN,MIL,MIN
+777401,6,top,57,Stolen Base 2B,1B,686555,Isaac Collins,2,1,Top,2025-06-22,MIN,MIL,MIL
+777401,9,top,87,Stolen Base 2B,1B,702332,Caleb Durbin,2,1,Top,2025-06-22,MIN,MIL,MIL
+777402,3,bottom,25,Stolen Base 2B,1B,669364,Xavier Edwards,2,1,Bot,2025-06-22,MIA,ATL,MIA
+777403,1,top,4,Pickoff Caught Stealing 2B,1B,593871,Jorge Polanco,2,0,Top,2025-06-22,CHC,SEA,SEA
+777403,2,bottom,16,Stolen Base 2B,1B,807713,Matt Shaw,2,1,Bot,2025-06-22,CHC,SEA,CHC
+777403,4,bottom,32,Caught Stealing 2B,1B,691718,Pete Crow-Armstrong,2,0,Bot,2025-06-22,CHC,SEA,CHC
+777403,8,top,68,Stolen Base 2B,1B,670156,Miles Mastrobuoni,2,1,Top,2025-06-22,CHC,SEA,SEA
+777405,3,bottom,19,Stolen Base 2B,1B,679032,Johan Rojas,2,1,Bot,2025-06-22,PHI,NYM,PHI
+777407,1,bottom,8,Stolen Base 2B,1B,691026,Masyn Winn,2,1,Bot,2025-06-22,STL,CIN,STL
+777407,2,top,11,Stolen Base 2B,1B,668715,Spencer Steer,2,1,Top,2025-06-22,STL,CIN,CIN
+777408,4,top,25,Caught Stealing 2B,1B,673357,Luis Robert Jr.,2,0,Top,2025-06-22,TOR,CWS,CWS
+777409,3,bottom,22,Stolen Base 2B,1B,666624,Christopher Morel,2,1,Bot,2025-06-22,TB,DET,TB
+777409,7,bottom,52,Stolen Base 2B,1B,676609,José Caballero,2,1,Bot,2025-06-22,TB,DET,TB
+777409,8,top,56,Stolen Base 2B,1B,656716,Zach McKinstry,2,1,Top,2025-06-22,TB,DET,DET
+777381,2,top,21,Caught Stealing 2B,1B,666152,David Hamilton,2,0,Top,2025-06-23,LAA,BOS,BOS
+777381,4,top,34,Stolen Base 2B,1B,678882,Ceddanne Rafaela,2,1,Top,2025-06-23,LAA,BOS,BOS
+777381,5,bottom,48,Caught Stealing 2B,1B,650859,Luis Rengifo,2,0,Bot,2025-06-23,LAA,BOS,LAA
+777381,8,bottom,69,Stolen Base 2B,1B,664774,LaMonte Wade Jr.,2,1,Bot,2025-06-23,LAA,BOS,LAA
+777381,8,bottom,72,Stolen Base 2B,1B,687263,Zach Neto,2,1,Bot,2025-06-23,LAA,BOS,LAA
+777382,3,top,17,Caught Stealing 2B,1B,695734,Daylen Lile,2,0,Top,2025-06-23,SD,WSH,WSH
+777382,4,top,27,Stolen Base 2B,1B,691781,Brady House,2,1,Top,2025-06-23,SD,WSH,WSH
+777382,6,top,48,Stolen Base 2B,1B,682928,CJ Abrams,2,1,Top,2025-06-23,SD,WSH,WSH
+777382,6,top,48,Stolen Base 3B,2B,696285,Jacob Young,3,1,Top,2025-06-23,SD,WSH,WSH
+777389,1,top,1,Stolen Base 2B,1B,660670,Ronald Acuña Jr.,2,1,Top,2025-06-23,NYM,ATL,ATL
+777389,2,top,8,Stolen Base 2B,1B,645277,Ozzie Albies,2,1,Top,2025-06-23,NYM,ATL,ATL
+777390,8,bottom,65,Stolen Base 2B,1B,668715,Spencer Steer,2,1,Bot,2025-06-23,CIN,NYY,CIN
+777391,9,bottom,75,Caught Stealing 2B,1B,702332,Caleb Durbin,2,0,Bot,2025-06-23,MIL,PIT,MIL
+777392,3,bottom,19,Stolen Base 2B,1B,687363,Victor Scott II,2,1,Bot,2025-06-23,STL,CHC,STL
+777364,2,bottom,16,Stolen Base 2B,1B,642715,Willy Adames,2,1,Bot,2025-06-24,SF,MIA,SF
+777372,4,top,29,Stolen Base 2B,1B,696285,Jacob Young,2,1,Top,2025-06-24,SD,WSH,WSH
+777373,8,top,66,Stolen Base 2B,1B,663538,Nico Hoerner,2,1,Top,2025-06-24,STL,CHC,CHC
+777373,9,top,75,Stolen Base 2B,1B,691718,Pete Crow-Armstrong,2,1,Top,2025-06-24,STL,CHC,CHC
+777374,2,bottom,16,Caught Stealing 2B,1B,668930,Brice Turang,2,0,Bot,2025-06-24,MIL,PIT,MIL
+777374,8,bottom,69,Stolen Base 2B,1B,686217,Sal Frelick,2,1,Bot,2025-06-24,MIL,PIT,MIL
+777376,8,bottom,58,Caught Stealing 2B,1B,687263,Zach Neto,2,0,Bot,2025-06-24,LAA,BOS,LAA
+777376,9,top,60,Stolen Base 2B,1B,663853,Romy Gonzalez,2,1,Top,2025-06-24,LAA,BOS,BOS
+777377,6,top,38,Stolen Base 2B,1B,592663,J.T. Realmuto,2,1,Top,2025-06-24,HOU,PHI,PHI
+777379,2,bottom,15,Stolen Base 2B,1B,641857,Ryan McMahon,2,1,Bot,2025-06-24,COL,LAD,COL
+777379,7,bottom,64,Stolen Base 2B,1B,671289,Tyler Freeman,2,1,Bot,2025-06-24,COL,LAD,COL
+777380,8,top,64,Stolen Base 2B,1B,664059,Sam Haggerty,2,1,Top,2025-06-24,BAL,TEX,TEX
+777380,8,top,64,Stolen Base 3B,2B,664059,Sam Haggerty,3,1,Top,2025-06-24,BAL,TEX,TEX
+777380,9,top,71,Stolen Base 2B,1B,608369,Corey Seager,2,1,Top,2025-06-24,BAL,TEX,TEX
+777380,10,top,79,Stolen Base 2B,1B,664059,Sam Haggerty,2,1,Top,2025-06-24,BAL,TEX,TEX
+777380,10,top,81,Stolen Base 2B,1B,677649,Ezequiel Duran,2,1,Top,2025-06-24,BAL,TEX,TEX
+777383,7,top,50,Stolen Base 2B,1B,677950,Alek Thomas,2,1,Top,2025-06-24,CWS,AZ,AZ
+777383,8,top,59,Stolen Base 2B,1B,666971,Lourdes Gurriel Jr.,2,1,Top,2025-06-24,CWS,AZ,AZ
+777384,2,top,12,Caught Stealing 2B,1B,682729,Jonatan Clase,2,0,Top,2025-06-24,CLE,TOR,TOR
+777384,5,top,37,Stolen Base 2B,1B,676391,Ernie Clement,2,1,Top,2025-06-24,CLE,TOR,TOR
+777385,5,top,33,Stolen Base 2B,1B,672724,Oswald Peraza,2,1,Top,2025-06-24,CIN,NYY,NYY
+777387,3,top,18,Stolen Base 2B,1B,660670,Ronald Acuña Jr.,2,1,Top,2025-06-24,NYM,ATL,ATL
+777387,4,bottom,28,Stolen Base 2B,1B,665742,Juan Soto,2,1,Bot,2025-06-24,NYM,ATL,NYM
+777355,2,bottom,14,Caught Stealing 2B,1B,808982,Jung Hoo Lee,2,0,Bot,2025-06-25,SF,MIA,SF
+777355,7,top,51,Stolen Base 2B,1B,681393,Connor Norby,2,1,Top,2025-06-25,SF,MIA,MIA
+777357,4,top,27,Stolen Base 2B,1B,683737,Michael Busch,2,1,Top,2025-06-25,STL,CHC,CHC
+777357,4,top,29,Stolen Base 2B,1B,807713,Matt Shaw,2,1,Top,2025-06-25,STL,CHC,CHC
+777357,4,top,32,Stolen Base 2B,1B,663656,Kyle Tucker,2,1,Top,2025-06-25,STL,CHC,CHC
+777358,8,top,59,Caught Stealing 2B,1B,681624,Andy Pages,2,0,Top,2025-06-25,COL,LAD,LAD
+777359,1,bottom,6,Caught Stealing 2B,1B,672580,Maikel Garcia,2,0,Bot,2025-06-25,KC,TB,KC
+777359,8,top,59,Pickoff Caught Stealing 2B,1B,663968,Jake Mangum,2,0,Top,2025-06-25,KC,TB,TB
+777360,4,bottom,26,Caught Stealing 2B,1B,657757,Gavin Sheets,2,0,Bot,2025-06-25,SD,WSH,SD
+777360,8,bottom,57,Stolen Base 2B,1B,665487,Fernando Tatis Jr.,2,1,Bot,2025-06-25,SD,WSH,SD
+777361,1,top,1,Stolen Base 2B,1B,624428,Adam Frazier,2,1,Top,2025-06-25,MIL,PIT,PIT
+777362,8,bottom,66,Caught Stealing 2B,1B,664068,Scott Kingery,2,0,Bot,2025-06-25,LAA,BOS,LAA
+777363,1,top,2,Stolen Base 2B,1B,677594,Julio Rodríguez,2,1,Top,2025-06-25,MIN,SEA,SEA
+777363,4,top,23,Caught Stealing 2B,1B,668227,Randy Arozarena,2,0,Top,2025-06-25,MIN,SEA,SEA
+777365,5,top,31,Stolen Base 2B,1B,696030,Alejandro Osuna,2,1,Top,2025-06-25,BAL,TEX,TEX
+777367,7,top,55,Stolen Base 2B,1B,691176,Jasson Domínguez,2,1,Top,2025-06-25,CIN,NYY,NYY
+777367,7,top,56,Stolen Base 3B,2B,691176,Jasson Domínguez,3,1,Top,2025-06-25,CIN,NYY,NYY
+777368,1,bottom,4,Stolen Base 2B,1B,680757,Steven Kwan,2,1,Bot,2025-06-25,CLE,TOR,CLE
+777368,4,bottom,29,Caught Stealing 2B,1B,657041,Lane Thomas,2,0,Bot,2025-06-25,CLE,TOR,CLE
+777368,5,top,35,Caught Stealing 2B,1B,702176,Alan Roden,2,0,Top,2025-06-25,CLE,TOR,TOR
+777368,10,top,78,Stolen Base 2B,1B,543807,George Springer,2,1,Top,2025-06-25,CLE,TOR,TOR
+777370,1,top,1,Stolen Base 2B,1B,672695,Geraldo Perdomo,2,1,Top,2025-06-25,CWS,AZ,AZ
+777370,1,bottom,9,Stolen Base 2B,1B,678246,Miguel Vargas,2,1,Bot,2025-06-25,CWS,AZ,CWS
+777370,5,top,39,Caught Stealing 2B,1B,672695,Geraldo Perdomo,2,0,Top,2025-06-25,CWS,AZ,AZ
+777370,6,bottom,52,Caught Stealing 2B,1B,672820,Lenyn Sosa,2,0,Bot,2025-06-25,CWS,AZ,CWS
+777371,3,top,17,Stolen Base 2B,1B,671732,Lawrence Butler,2,1,Top,2025-06-25,DET,ATH,ATH
+777371,6,top,42,Caught Stealing 2B,1B,691016,Tyler Soderstrom,2,0,Top,2025-06-25,DET,ATH,ATH
+777348,8,top,58,Pickoff Caught Stealing 2B,1B,621020,Dansby Swanson,2,0,Top,2025-06-26,STL,CHC,CHC
+777350,4,bottom,29,Stolen Base 2B,1B,701358,Cam Smith,2,1,Bot,2025-06-26,HOU,PHI,HOU
+777351,3,top,15,Stolen Base 2B,1B,680474,Max Schuemann,2,1,Top,2025-06-26,DET,ATH,ATH
+777351,4,bottom,30,Pickoff Caught Stealing 3B,2B,656716,Zach McKinstry,3,0,Bot,2025-06-26,DET,ATH,DET
+777351,6,bottom,44,Stolen Base 2B,1B,656716,Zach McKinstry,2,1,Bot,2025-06-26,DET,ATH,DET
+777353,4,top,25,Stolen Base 2B,1B,666139,Josh Lowe,2,1,Top,2025-06-26,KC,TB,TB
+777354,2,bottom,13,Stolen Base 2B,1B,657041,Lane Thomas,2,1,Bot,2025-06-26,CLE,TOR,CLE
+777354,4,bottom,29,Stolen Base 2B,1B,608070,José Ramírez,2,1,Bot,2025-06-26,CLE,TOR,CLE
+777354,5,top,34,Stolen Base 2B,1B,664702,Myles Straw,2,1,Top,2025-06-26,CLE,TOR,TOR
+777331,3,top,19,Stolen Base 2B,1B,682928,CJ Abrams,2,1,Top,2025-06-27,LAA,WSH,WSH
+777331,3,top,21,Stolen Base 2B,1B,695578,James Wood,2,1,Top,2025-06-27,LAA,WSH,WSH
+777331,5,top,47,Pickoff Caught Stealing 2B,1B,695734,Daylen Lile,2,0,Top,2025-06-27,LAA,WSH,WSH
+777331,9,top,86,Stolen Base 2B,1B,696285,Jacob Young,2,1,Top,2025-06-27,LAA,WSH,WSH
+777332,3,bottom,16,Stolen Base 2B,1B,664983,Jake McCarthy,2,1,Bot,2025-06-27,AZ,MIA,AZ
+777332,9,top,73,Stolen Base 2B,1B,667472,Dane Myers,2,1,Top,2025-06-27,AZ,MIA,MIA
+777334,6,top,39,Stolen Base 2B,1B,650489,Willi Castro,2,1,Top,2025-06-27,DET,MIN,MIN
+777334,7,top,49,Stolen Base 2B,1B,621439,Byron Buxton,2,1,Top,2025-06-27,DET,MIN,MIN
+777334,8,bottom,65,Stolen Base 2B,1B,656716,Zach McKinstry,2,1,Bot,2025-06-27,DET,MIN,DET
+777335,2,bottom,16,Stolen Base 2B,1B,670231,John Rave,2,1,Bot,2025-06-27,KC,LAD,KC
+777335,4,bottom,34,Caught Stealing 2B,1B,666023,Freddy Fermin,2,0,Bot,2025-06-27,KC,LAD,KC
+777337,8,bottom,61,Stolen Base 2B,1B,641355,Cody Bellinger,2,1,Bot,2025-06-27,NYY,ATH,NYY
+777339,1,bottom,7,Caught Stealing 2B,1B,686217,Sal Frelick,2,0,Bot,2025-06-27,MIL,COL,MIL
+777339,7,top,60,Caught Stealing 2B,2B,687597,Jordan Beck,2,0,Top,2025-06-27,MIL,COL,COL
+777341,1,top,2,Stolen Base 2B,1B,607043,Brandon Nimmo,2,1,Top,2025-06-27,PIT,NYM,NYM
+777341,6,bottom,51,Stolen Base 2B,1B,643396,Isiah Kiner-Falefa,2,1,Bot,2025-06-27,PIT,NYM,PIT
+777342,1,top,3,Stolen Base 2B,1B,656941,Kyle Schwarber,2,1,Top,2025-06-27,ATL,PHI,PHI
+777342,1,top,3,Stolen Base 3B,2B,607208,Trea Turner,3,1,Top,2025-06-27,ATL,PHI,PHI
+777343,2,top,12,Stolen Base 2B,1B,802415,Chandler Simpson,2,1,Top,2025-06-27,BAL,TB,TB
+777343,3,bottom,31,Stolen Base 3B,2B,657656,Ramón Laureano,3,1,Bot,2025-06-27,BAL,TB,BAL
+777343,6,bottom,58,Stolen Base 2B,1B,602104,Ramón Urías,2,1,Bot,2025-06-27,BAL,TB,BAL
+777345,1,top,3,Stolen Base 2B,1B,665489,Vladimir Guerrero Jr.,2,1,Top,2025-06-27,BOS,TOR,TOR
+777345,3,top,22,Stolen Base 2B,1B,543807,George Springer,2,1,Top,2025-06-27,BOS,TOR,TOR
+777346,3,bottom,23,Stolen Base 2B,1B,682829,Elly De La Cruz,2,1,Bot,2025-06-27,CIN,SD,CIN
+777315,7,top,45,Stolen Base 2B,1B,695734,Daylen Lile,2,1,Top,2025-06-28,LAA,WSH,WSH
+777318,7,bottom,61,Caught Stealing 2B,1B,666971,Lourdes Gurriel Jr.,2,0,Bot,2025-06-28,AZ,MIA,AZ
+777318,8,top,68,Stolen Base 2B,1B,676466,Jack Winkler,2,1,Top,2025-06-28,AZ,MIA,MIA
+777318,9,top,73,Stolen Base 2B,1B,667472,Dane Myers,2,1,Top,2025-06-28,AZ,MIA,MIA
+777318,9,top,74,Stolen Base 3B,2B,667472,Dane Myers,3,1,Top,2025-06-28,AZ,MIA,MIA
+777319,2,top,12,Stolen Base 2B,1B,808975,Hyeseong Kim,2,1,Top,2025-06-28,KC,LAD,LAD
+777319,3,bottom,23,Caught Stealing 2B,1B,671221,Drew Waters,2,0,Bot,2025-06-28,KC,LAD,KC
+777319,3,bottom,26,Stolen Base 3B,2B,672580,Maikel Garcia,3,1,Bot,2025-06-28,KC,LAD,KC
+777320,1,top,2,Stolen Base 2B,1B,663656,Kyle Tucker,2,1,Top,2025-06-28,HOU,CHC,CHC
+777320,1,top,4,Stolen Base 2B,1B,691718,Pete Crow-Armstrong,2,1,Top,2025-06-28,HOU,CHC,CHC
+777320,5,top,43,Stolen Base 2B,1B,807713,Matt Shaw,2,1,Top,2025-06-28,HOU,CHC,CHC
+777322,3,bottom,19,Caught Stealing 2B,1B,696030,Alejandro Osuna,2,0,Bot,2025-06-28,TEX,SEA,TEX
+777322,6,top,44,Stolen Base 2B,1B,668227,Randy Arozarena,2,1,Top,2025-06-28,TEX,SEA,SEA
+777323,2,bottom,22,Stolen Base 2B,1B,596115,Trevor Story,2,1,Bot,2025-06-28,BOS,TOR,BOS
+777323,3,bottom,34,Stolen Base 2B,1B,647351,Abraham Toro,2,1,Bot,2025-06-28,BOS,TOR,BOS
+777324,1,top,2,Stolen Base 2B,1B,621439,Byron Buxton,2,1,Top,2025-06-28,DET,MIN,MIN
+777325,1,top,5,Stolen Base 2B,1B,624413,Pete Alonso,2,1,Top,2025-06-28,PIT,NYM,NYM
+777325,2,bottom,16,Stolen Base 2B,1B,665833,Oneil Cruz,2,1,Bot,2025-06-28,PIT,NYM,PIT
+777326,6,top,37,Stolen Base 2B,1B,671732,Lawrence Butler,2,1,Top,2025-06-28,NYY,ATH,ATH
+777329,4,bottom,32,Stolen Base 3B,2B,666134,Nolan Jones,3,1,Bot,2025-06-28,CLE,STL,CLE
+777329,7,top,59,Stolen Base 3B,2B,575929,Willson Contreras,3,1,Top,2025-06-28,CLE,STL,STL
+777330,1,top,7,Caught Stealing 2B,1B,802415,Chandler Simpson,2,0,Top,2025-06-28,BAL,TB,TB
+777330,1,bottom,11,Stolen Base 2B,1B,702616,Jackson Holliday,2,1,Bot,2025-06-28,BAL,TB,BAL
+777330,4,top,27,Stolen Base 2B,1B,802415,Chandler Simpson,2,1,Top,2025-06-28,BAL,TB,TB
+777333,6,top,42,Stolen Base 2B,1B,669016,Brandon Marsh,2,1,Top,2025-06-28,ATL,PHI,PHI
+777333,8,bottom,66,Caught Stealing 2B,1B,669397,Nick Allen,2,0,Bot,2025-06-28,ATL,PHI,ATL
+777301,1,bottom,7,Pickoff Caught Stealing 2B,1B,686217,Sal Frelick,2,0,Bot,2025-06-29,MIL,COL,MIL
+777301,3,bottom,22,Stolen Base 2B,1B,687401,Joey Ortiz,2,1,Bot,2025-06-29,MIL,COL,MIL
+777301,5,top,32,Stolen Base 2B,1B,690924,Braxton Fulford,2,1,Top,2025-06-29,MIL,COL,COL
+777301,9,bottom,69,Stolen Base 2B,1B,668930,Brice Turang,2,1,Bot,2025-06-29,MIL,COL,MIL
+777301,10,top,75,Stolen Base 2B,1B,642731,Thairo Estrada,2,1,Top,2025-06-29,MIL,COL,COL
+777301,11,top,84,Caught Stealing 2B,1B,571657,Kyle Farmer,2,0,Top,2025-06-29,MIL,COL,COL
+777302,6,bottom,50,Stolen Base 2B,1B,694497,Evan Carter,2,1,Bot,2025-06-29,TEX,SEA,TEX
+777302,9,bottom,73,Stolen Base 2B,1B,696030,Alejandro Osuna,2,1,Bot,2025-06-29,TEX,SEA,TEX
+777302,11,bottom,91,Stolen Base 2B,1B,694497,Evan Carter,2,1,Bot,2025-06-29,TEX,SEA,TEX
+777303,4,top,26,Stolen Base 2B,1B,667472,Dane Myers,2,1,Top,2025-06-29,AZ,MIA,MIA
+777303,5,bottom,41,Stolen Base 2B,1B,672695,Geraldo Perdomo,2,1,Bot,2025-06-29,AZ,MIA,AZ
+777303,6,top,44,Stolen Base 2B,1B,667472,Dane Myers,2,1,Top,2025-06-29,AZ,MIA,MIA
+777303,7,top,50,Caught Stealing 2B,1B,691594,Javier Sanoja,2,0,Top,2025-06-29,AZ,MIA,MIA
+777303,7,top,51,Stolen Base 2B,1B,672640,Otto Lopez,2,1,Top,2025-06-29,AZ,MIA,MIA
+777305,2,top,13,Caught Stealing 2B,1B,695734,Daylen Lile,2,0,Top,2025-06-29,LAA,WSH,WSH
+777305,9,top,70,Stolen Base 2B,1B,696285,Jacob Young,2,1,Top,2025-06-29,LAA,WSH,WSH
+777305,9,top,72,Stolen Base 2B,1B,695578,James Wood,2,1,Top,2025-06-29,LAA,WSH,WSH
+777305,9,bottom,76,Caught Stealing 2B,1B,687263,Zach Neto,2,0,Bot,2025-06-29,LAA,WSH,LAA
+777307,5,bottom,46,Stolen Base 3B,2B,683011,Anthony Volpe,3,1,Bot,2025-06-29,NYY,ATH,NYY
+777308,3,top,18,Stolen Base 2B,1B,542932,Jon Berti,2,1,Top,2025-06-29,HOU,CHC,CHC
+777308,3,bottom,22,Stolen Base 2B,1B,676694,Jake Meyers,2,1,Bot,2025-06-29,HOU,CHC,HOU
+777309,2,top,15,Pickoff Caught Stealing 2B,1B,687363,Victor Scott II,2,0,Top,2025-06-29,CLE,STL,STL
+777309,4,bottom,33,Pickoff Caught Stealing 2B,1B,682657,Angel Martínez,2,0,Bot,2025-06-29,CLE,STL,CLE
+777309,8,top,63,Stolen Base 2B,1B,669357,Nolan Gorman,2,1,Top,2025-06-29,CLE,STL,STL
+777309,8,top,63,Stolen Base 3B,2B,665877,José Fermín,3,1,Top,2025-06-29,CLE,STL,STL
+777310,2,bottom,14,Stolen Base 2B,1B,596115,Trevor Story,2,1,Bot,2025-06-29,BOS,TOR,BOS
+777310,4,top,29,Stolen Base 2B,1B,665926,Andrés Giménez,2,1,Top,2025-06-29,BOS,TOR,TOR
+777311,2,top,11,Stolen Base 2B,1B,683766,Christian Koss,2,1,Top,2025-06-29,CWS,SF,SF
+777311,5,bottom,46,Stolen Base 2B,1B,805367,Chase Meidroth,2,1,Bot,2025-06-29,CWS,SF,CWS
+777312,9,top,69,Stolen Base 2B,1B,665487,Fernando Tatis Jr.,2,1,Top,2025-06-29,CIN,SD,SD
+777316,5,top,36,Stolen Base 2B,1B,656941,Kyle Schwarber,2,1,Top,2025-06-29,ATL,PHI,PHI
+777317,1,bottom,7,Caught Stealing 2B,1B,702616,Jackson Holliday,2,0,Bot,2025-06-29,BAL,TB,BAL
+777317,4,top,26,Stolen Base 2B,1B,663968,Jake Mangum,2,1,Top,2025-06-29,BAL,TB,TB
+777292,7,bottom,58,Stolen Base 2B,1B,680737,Michael Helman,2,1,Bot,2025-06-30,TEX,BAL,TEX
+777292,8,bottom,66,Stolen Base 2B,1B,666969,Adolis García,2,1,Bot,2025-06-30,TEX,BAL,TEX
+777292,9,bottom,73,Stolen Base 2B,1B,677649,Ezequiel Duran,2,1,Bot,2025-06-30,TEX,BAL,TEX
+777292,9,bottom,73,Stolen Base 3B,2B,677649,Ezequiel Duran,3,1,Bot,2025-06-30,TEX,BAL,TEX
+777295,7,bottom,61,Caught Stealing 2B,1B,676914,Davis Schneider,2,0,Bot,2025-06-30,TOR,NYY,TOR
+777296,4,bottom,32,Pickoff Caught Stealing 3B,2B,663968,Jake Mangum,3,0,Bot,2025-06-30,TB,ATH,TB
+777296,8,bottom,61,Stolen Base 2B,1B,802415,Chandler Simpson,2,1,Bot,2025-06-30,TB,ATH,TB
+777296,9,top,67,Stolen Base 2B,1B,680474,Max Schuemann,2,1,Top,2025-06-30,TB,ATH,ATH
+777296,9,top,69,Pickoff Caught Stealing 2B,1B,805779,Jacob Wilson,2,0,Top,2025-06-30,TB,ATH,ATH
+777300,1,bottom,11,Stolen Base 2B,1B,666152,David Hamilton,2,1,Bot,2025-06-30,BOS,CIN,BOS
+777300,7,bottom,65,Caught Stealing 2B,1B,691785,Marcelo Mayer,2,0,Bot,2025-06-30,BOS,CIN,BOS
+777306,4,bottom,31,Stolen Base 2B,1B,681082,Bryson Stott,2,1,Bot,2025-06-30,PHI,SD,PHI
+777306,4,bottom,32,Stolen Base 2B,1B,669016,Brandon Marsh,2,1,Bot,2025-06-30,PHI,SD,PHI
